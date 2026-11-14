@@ -1,0 +1,248 @@
+{
+  "label": "AI-assessed; not human-confirmed",
+  "coverage": {
+    "grounding": 15,
+    "coherence": 30,
+    "metadata": 45
+  },
+  "grounding": {
+    "A": {
+      "n": 5,
+      "ai_counts": {
+        "0": 0,
+        "1": 1,
+        "2": 4
+      },
+      "ai_assessed": 5,
+      "ai_mean": 1.8,
+      "human_reviewed": 5,
+      "human_mean": 1.8,
+      "human_counts": {
+        "0": 0,
+        "1": 1,
+        "2": 4
+      }
+    },
+    "B": {
+      "n": 5,
+      "ai_counts": {
+        "0": 0,
+        "1": 0,
+        "2": 5
+      },
+      "ai_assessed": 5,
+      "ai_mean": 2.0,
+      "human_reviewed": 5,
+      "human_mean": 2.0,
+      "human_counts": {
+        "0": 0,
+        "1": 0,
+        "2": 5
+      }
+    },
+    "C": {
+      "n": 5,
+      "ai_counts": {
+        "0": 0,
+        "1": 0,
+        "2": 5
+      },
+      "ai_assessed": 5,
+      "ai_mean": 2.0,
+      "human_reviewed": 5,
+      "human_mean": 2.0,
+      "human_counts": {
+        "0": 0,
+        "1": 0,
+        "2": 5
+      }
+    }
+  },
+  "coherence": {
+    "A": {
+      "n": 10,
+      "ai_counts": {
+        "0": 0,
+        "1": 10,
+        "2": 0
+      },
+      "ai_assessed": 10,
+      "ai_mean": 1.0,
+      "human_reviewed": 10,
+      "human_mean": 1.0,
+      "human_counts": {
+        "0": 0,
+        "1": 10,
+        "2": 0
+      }
+    },
+    "B": {
+      "n": 10,
+      "ai_counts": {
+        "0": 0,
+        "1": 10,
+        "2": 0
+      },
+      "ai_assessed": 10,
+      "ai_mean": 1.0,
+      "human_reviewed": 10,
+      "human_mean": 1.0,
+      "human_counts": {
+        "0": 0,
+        "1": 10,
+        "2": 0
+      }
+    },
+    "C": {
+      "n": 10,
+      "ai_counts": {
+        "0": 0,
+        "1": 10,
+        "2": 0
+      },
+      "ai_assessed": 10,
+      "ai_mean": 1.0,
+      "human_reviewed": 10,
+      "human_mean": 1.0,
+      "human_counts": {
+        "0": 0,
+        "1": 10,
+        "2": 0
+      }
+    }
+  },
+  "metadata": {
+    "A": {
+      "records": 15,
+      "base_correct": 15,
+      "required_correct": 15,
+      "ai_assessed": 15,
+      "correctness_count": 15,
+      "completeness_count": 15,
+      "record_pass_count": 15,
+      "filter_applicable_records": 0,
+      "filter_compliant_records": 0,
+      "chapter_present": 0,
+      "filtered_questions": 0,
+      "filter_compliant_questions": 0
+    },
+    "B": {
+      "records": 15,
+      "base_correct": 15,
+      "required_correct": 15,
+      "ai_assessed": 15,
+      "correctness_count": 15,
+      "completeness_count": 15,
+      "record_pass_count": 15,
+      "filter_applicable_records": 0,
+      "filter_compliant_records": 0,
+      "chapter_present": 15,
+      "filtered_questions": 0,
+      "filter_compliant_questions": 0
+    },
+    "C": {
+      "records": 15,
+      "base_correct": 15,
+      "required_correct": 15,
+      "ai_assessed": 15,
+      "correctness_count": 15,
+      "completeness_count": 15,
+      "record_pass_count": 15,
+      "filter_applicable_records": 3,
+      "filter_compliant_records": 3,
+      "chapter_present": 15,
+      "filtered_questions": 1,
+      "filter_compliant_questions": 1
+    }
+  },
+  "retrieval": {
+    "dev": {
+      "A": {
+        "dev": {
+          "total_questions": 15,
+          "hit_at_1_count": 9,
+          "hit_at_1": 0.6,
+          "evidence_hit_at_3_count": 11,
+          "evidence_hit_at_3": 0.7333333333333333
+        }
+      },
+      "B": {
+        "dev": {
+          "total_questions": 15,
+          "hit_at_1_count": 7,
+          "hit_at_1": 0.4666666666666667,
+          "evidence_hit_at_3_count": 11,
+          "evidence_hit_at_3": 0.7333333333333333
+        }
+      },
+      "C": {
+        "dev": {
+          "total_questions": 15,
+          "hit_at_1_count": 7,
+          "hit_at_1": 0.4666666666666667,
+          "evidence_hit_at_3_count": 11,
+          "evidence_hit_at_3": 0.7333333333333333
+        }
+      }
+    },
+    "test": {
+      "A": {
+        "test": {
+          "total_questions": 5,
+          "hit_at_1_count": 4,
+          "hit_at_1": 0.8,
+          "evidence_hit_at_3_count": 4,
+          "evidence_hit_at_3": 0.8
+        }
+      },
+      "B": {
+        "test": {
+          "total_questions": 5,
+          "hit_at_1_count": 4,
+          "hit_at_1": 0.8,
+          "evidence_hit_at_3_count": 4,
+          "evidence_hit_at_3": 0.8
+        }
+      },
+      "C": {
+        "test": {
+          "total_questions": 5,
+          "hit_at_1_count": 4,
+          "hit_at_1": 0.8,
+          "evidence_hit_at_3_count": 4,
+          "evidence_hit_at_3": 0.8
+        }
+      }
+    }
+  },
+  "data_strategy": {
+    "fixed_800_100": {
+      "chunks": 250,
+      "characters": 176519,
+      "min_characters": 101,
+      "max_characters": 800,
+      "mean_characters": 706.076,
+      "median_characters": 800,
+      "ingest_seconds": 4.962137833994348,
+      "paid_api_cost": 0,
+      "cost_note": "Local inference; electricity/hardware cost not measured"
+    },
+    "paragraph_800": {
+      "chunks": 309,
+      "characters": 157839,
+      "min_characters": 3,
+      "max_characters": 800,
+      "mean_characters": 510.80582524271847,
+      "median_characters": 796,
+      "ingest_seconds": 3.4021015829930548,
+      "paid_api_cost": 0,
+      "cost_note": "Local inference; electricity/hardware cost not measured"
+    }
+  },
+  "test_trace_sha256": "cab2f173eb34cf2eb4f08aac734712c649314f3a41d584532a5e92769e956425",
+  "review_csv_sha256": {
+    "grounding_review.csv": "239d6197e972478c936cf41e604d1fbbf09398021218791afa9a2b514cf63435",
+    "coherence_review.csv": "7a1c86ec13e73e92c3409ab26001d619ecdc3fcb9a03ba18fba5f095b6369b09",
+    "metadata_ai_review.csv": "cb2bc87f6d8e31998bede1e3373bee2a4475312ffdfb342505fb1d4530be76a4"
+  }
+}

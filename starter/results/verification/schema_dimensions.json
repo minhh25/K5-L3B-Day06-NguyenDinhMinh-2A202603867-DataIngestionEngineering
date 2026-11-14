@@ -1,0 +1,5 @@
+{
+  "vector_384_schema_accepted": true,
+  "vector_768_mismatch_rejected": true,
+  "data_rewritten": false
+}

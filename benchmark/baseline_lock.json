@@ -1,0 +1,9 @@
+{
+  "starter/data/benchmark_questions.json": "07f18bd4bc2497cd43a2920e7f5bd8fa765509edf27d6193975722cac97c95d7",
+  "starter/data/benchmark_source_extract.txt": "107c83bffce7abad6950d412270c4ad47d1eeae66e33111e5c3eb5d92d9ea180",
+  "starter/data/2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508",
+  "starter/results/dev_traces.json": "7e0da537b463de00c611b14e1d723685d6fd46be27abc34f03107b557536ef1e",
+  "starter/results/dev_summary.json": "464f9629172285871f6534ba085b24440bdb6c19027d2a1dcb51d792127ca9c2",
+  "starter/results/test_traces.json": "cab2f173eb34cf2eb4f08aac734712c649314f3a41d584532a5e92769e956425",
+  "starter/results/test_summary.json": "846dd315ec075cc1f9a8992bfe19763ad197d96915893bced682fac4423ec60c"
+}

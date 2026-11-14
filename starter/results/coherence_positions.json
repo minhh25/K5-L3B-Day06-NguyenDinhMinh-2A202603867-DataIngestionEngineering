@@ -1,0 +1,85 @@
+{
+  "selection_rule": "Trước khi chấm: 10 useful page IDs đầu theo thứ tự (2–11); lấy offset floor(len(normalized_page)/2). Khi overlap, chọn chunk_index thấp nhất chứa offset. Không dựa retrieval/cosine.",
+  "positions": [
+    {
+      "sample_id": "P02",
+      "document_id": "luat_duong_bo_2026",
+      "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+      "page": 2,
+      "anchor_char": 1183,
+      "anchor_text": "c hai bên đất của đường bộ, tính\ntừ mép ngoài phần đất để bảo vệ, bảo trì đường bộ ra hai bên để bảo"
+    },
+    {
+      "sample_id": "P03",
+      "document_id": "luat_duong_bo_2026",
+      "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+      "page": 3,
+      "anchor_char": 1357,
+      "anchor_text": "cấu hạ tầng đường bộ tại các đô th ị để giảm ùn t ắc giao\nthông; các tuyến đường tuần tra biên gi ới"
+    },
+    {
+      "sample_id": "P04",
+      "document_id": "luat_duong_bo_2026",
+      "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+      "page": 4,
+      "anchor_char": 1272,
+      "anchor_text": " dân cấp tỉnh tổ chức lập nội dung về phát triển đường bộ trong\nphương án phát triển mạng lưới giao "
+    },
+    {
+      "sample_id": "P05",
+      "document_id": "luat_duong_bo_2026",
+      "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+      "page": 5,
+      "anchor_char": 1062,
+      "anchor_text": "háo dỡ, di chuyển trái\nphép hoặc làm sai lệch công trình đường bộ.\n3. Lấn, chiếm, sử dụng, xây dựng "
+    },
+    {
+      "sample_id": "P06",
+      "document_id": "luat_duong_bo_2026",
+      "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+      "page": 6,
+      "anchor_char": 1223,
+      "anchor_text": "đường tỉnh, đường đô thị, đường xã, đường thôn.\n3. Bộ Xây dựng có trách nhi ệm quản lý qu ốc lộ, trừ"
+    },
+    {
+      "sample_id": "P07",
+      "document_id": "luat_duong_bo_2026",
+      "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+      "page": 7,
+      "anchor_char": 1052,
+      "anchor_text": ".\n5. Đường dành cho giao thông công c ộng là đường phục vụ cho tất cả mọi\nngười, phương tiện giao th"
+    },
+    {
+      "sample_id": "P08",
+      "document_id": "luat_duong_bo_2026",
+      "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+      "page": 8,
+      "anchor_char": 1229,
+      "anchor_text": "u đường bộ đối với đường xã, đường thôn,\nđường nội bộ, đường chuyên dùng; không b ắt buộc đổi tên, s"
+    },
+    {
+      "sample_id": "P09",
+      "document_id": "luat_duong_bo_2026",
+      "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+      "page": 9,
+      "anchor_char": 1232,
+      "anchor_text": "ủa Luật này và quy định khác của\npháp luật có liên quan.\n3. Trường hợp do vị trí tự nhiên mà việc th"
+    },
+    {
+      "sample_id": "P10",
+      "document_id": "luat_duong_bo_2026",
+      "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+      "page": 10,
+      "anchor_char": 1313,
+      "anchor_text": " dựng khác thì phần đất để bảo vệ, bảo trì là ranh\ngiới của các công trình.\n3. Tại các đo ạn đường c"
+    },
+    {
+      "sample_id": "P11",
+      "document_id": "luat_duong_bo_2026",
+      "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+      "page": 11,
+      "anchor_char": 1198,
+      "anchor_text": "căn c ứ chiều rộng mặt đường và tiêu chu ẩn\nthiết kế đường để xác định cấp kỹ thuật tương ứng làm că"
+    }
+  ]
+}

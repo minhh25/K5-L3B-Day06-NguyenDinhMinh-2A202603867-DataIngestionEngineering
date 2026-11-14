@@ -1,0 +1,12 @@
+{
+  "ai_reviewer": "Codex AI — đọc lại evidence, không phải human reviewer",
+  "ai_reviewed_at": "2026-11-14T16:20:01.865017+07:00",
+  "grounding_cases": 15,
+  "coherence_cases": 30,
+  "grounding_method": "Read all three hits against question, expected answer and gold; PDF used to validate source, never to fill absent retrieved evidence. No automatic conversion from Hit@3.",
+  "coherence_method": "Read complete chunks, both boundaries, independent meaning, subjects/conditions/exceptions at the same ten frozen source anchors. Verified B/C text identity.",
+  "old_scores_unchanged_after_reassessment": true,
+  "reasons_rewritten": true,
+  "human_fields_preserved": true,
+  "human_review_completed_by_ai": false
+}

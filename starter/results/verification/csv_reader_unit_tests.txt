@@ -1,0 +1,48 @@
+test_ai_reviewer_fields_never_count_as_human_review (test_ai_audit.AIAuditTests.test_ai_reviewer_fields_never_count_as_human_review) ... ok
+test_empty_filtered_retrieval_is_not_vacuously_compliant (test_ai_audit.AIAuditTests.test_empty_filtered_retrieval_is_not_vacuously_compliant) ... ok
+test_missing_optional_chapter_is_not_a_fake_filter_pass (test_ai_audit.AIAuditTests.test_missing_optional_chapter_is_not_a_fake_filter_pass) ... ok
+test_missing_required_chapter_fails_completeness_separately (test_ai_audit.AIAuditTests.test_missing_required_chapter_fails_completeness_separately) ... ok
+test_frozen_inputs_unchanged (test_baseline.BaselineTests.test_frozen_inputs_unchanged) ... ok
+test_known_split_evidence_failures_stay_failures (test_baseline.BaselineTests.test_known_split_evidence_failures_stay_failures) ... ok
+test_recomputed_metrics_match_baseline (test_baseline.BaselineTests.test_recomputed_metrics_match_baseline) ... ok
+test_requested_filter_is_not_applied_filter (test_baseline.BaselineTests.test_requested_filter_is_not_applied_filter) ... ok
+test_all_quotes_required_in_one_alternative (test_evaluation.EvaluationTests.test_all_quotes_required_in_one_alternative) ... ok
+test_alternative_gold_without_legacy_fields (test_evaluation.EvaluationTests.test_alternative_gold_without_legacy_fields) ... ok
+test_invalid_gold_is_not_a_hit (test_evaluation.EvaluationTests.test_invalid_gold_is_not_a_hit) ... ok
+test_multi_page_chunk (test_evaluation.EvaluationTests.test_multi_page_chunk) ... ok
+test_normalized_full_evidence (test_evaluation.EvaluationTests.test_normalized_full_evidence) ... ok
+test_rank_two_and_top_three_limit (test_evaluation.EvaluationTests.test_rank_two_and_top_three_limit) ... ok
+test_right_page_without_full_evidence (test_evaluation.EvaluationTests.test_right_page_without_full_evidence) ... ok
+test_split_evidence_not_joined (test_evaluation.EvaluationTests.test_split_evidence_not_joined) ... ok
+test_summary_split_and_config (test_evaluation.EvaluationTests.test_summary_split_and_config) ... ok
+test_wrong_source_or_page (test_evaluation.EvaluationTests.test_wrong_source_or_page) ... ok
+test_chunk_crossing_two_chapters_stays_null (test_metadata.ChapterMetadataTests.test_chunk_crossing_two_chapters_stays_null) ... ok
+test_filter_without_results_returns_empty_without_retry_or_fallback (test_metadata.ChapterMetadataTests.test_filter_without_results_returns_empty_without_retry_or_fallback) ... ok
+test_header_only_chunk_does_not_inherit_chapter (test_metadata.ChapterMetadataTests.test_header_only_chunk_does_not_inherit_chapter) ... ok
+test_new_document_does_not_inherit_another_documents_chapter (test_metadata.ChapterMetadataTests.test_new_document_does_not_inherit_another_documents_chapter) ... ok
+test_preamble_mixed_with_first_heading_is_not_assigned_to_chapter (test_metadata.ChapterMetadataTests.test_preamble_mixed_with_first_heading_is_not_assigned_to_chapter) ... ok
+test_transition_page_preserves_previous_chapter_until_heading (test_metadata.ChapterMetadataTests.test_transition_page_preserves_previous_chapter_until_heading) ... ok
+test_unknown_chapter_is_not_invented (test_metadata.ChapterMetadataTests.test_unknown_chapter_is_not_invented) ... ok
+test_chapter_boundaries_and_header (test_pipeline.PipelineTests.test_chapter_boundaries_and_header) ... ok
+test_stable_ids_and_coverage (test_pipeline.PipelineTests.test_stable_ids_and_coverage) ... ok
+test_store_rejects_bad_vectors_before_connect (test_pipeline.PipelineTests.test_store_rejects_bad_vectors_before_connect) ... ok
+test_ai_scores_never_count_as_human (test_submission.SubmissionReviewTests.test_ai_scores_never_count_as_human) ... ok
+test_bom_and_leading_blank_lines_work_in_both_review_readers (test_submission.SubmissionReviewTests.test_bom_and_leading_blank_lines_work_in_both_review_readers) ... ok
+test_complete_student_template_does_not_require_an_extra_signature (test_submission.SubmissionReviewTests.test_complete_student_template_does_not_require_an_extra_signature) ... ok
+test_duplicate_and_missing_keys_cannot_complete_reviews (test_submission.SubmissionReviewTests.test_duplicate_and_missing_keys_cannot_complete_reviews) ... ok
+test_forbidden_commit_paths (test_submission.SubmissionReviewTests.test_forbidden_commit_paths) ... ok
+test_malformed_csv_with_shifted_columns_is_rejected (test_submission.SubmissionReviewTests.test_malformed_csv_with_shifted_columns_is_rejected) ... ok
+test_metadata_requires_status_signature_and_all_records_checkbox (test_submission.SubmissionReviewTests.test_metadata_requires_status_signature_and_all_records_checkbox) ... ok
+test_missing_header_column_is_reported_without_key_error (test_submission.SubmissionReviewTests.test_missing_header_column_is_reported_without_key_error) ... ok
+test_readiness_becomes_complete_only_when_all_conditions_are_recorded (test_submission.SubmissionReviewTests.test_readiness_becomes_complete_only_when_all_conditions_are_recorded) ... ok
+test_report_section_does_not_promote_ai_scores_to_human (test_submission.SubmissionReviewTests.test_report_section_does_not_promote_ai_scores_to_human) ... ok
+test_repository_synthetic_example_does_not_require_pdf_permission (test_submission.SubmissionReviewTests.test_repository_synthetic_example_does_not_require_pdf_permission) ... ok
+test_signed_zero_score_is_counted_without_using_ai_score (test_submission.SubmissionReviewTests.test_signed_zero_score_is_counted_without_using_ai_score) ... ok
+test_source_and_trace_are_excluded_until_permission_is_verified (test_submission.SubmissionReviewTests.test_source_and_trace_are_excluded_until_permission_is_verified) ... ok
+test_student_class_must_be_supplied_even_with_signature (test_submission.SubmissionReviewTests.test_student_class_must_be_supplied_even_with_signature) ... ok
+test_unsigned_score_remains_pending (test_submission.SubmissionReviewTests.test_unsigned_score_remains_pending) ... ok
+
+----------------------------------------------------------------------
+Ran 43 tests in 0.040s
+
+OK

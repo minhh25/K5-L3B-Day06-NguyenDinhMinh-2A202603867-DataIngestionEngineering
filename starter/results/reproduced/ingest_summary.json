@@ -1,0 +1,24 @@
+{
+  "fixed_800_100": {
+    "chunks": 250,
+    "characters": 176519,
+    "min_characters": 101,
+    "max_characters": 800,
+    "mean_characters": 706.076,
+    "median_characters": 800,
+    "ingest_seconds": 4.962137833994348,
+    "paid_api_cost": 0,
+    "cost_note": "Local inference; electricity/hardware cost not measured"
+  },
+  "paragraph_800": {
+    "chunks": 309,
+    "characters": 157839,
+    "min_characters": 3,
+    "max_characters": 800,
+    "mean_characters": 510.80582524271847,
+    "median_characters": 796,
+    "ingest_seconds": 3.4021015829930548,
+    "paid_api_cost": 0,
+    "cost_note": "Local inference; electricity/hardware cost not measured"
+  }
+}

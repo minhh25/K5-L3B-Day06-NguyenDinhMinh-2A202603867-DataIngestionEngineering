@@ -1,0 +1,234 @@
+[
+  {
+    "id": "Q01",
+    "split": "dev",
+    "type": "direct",
+    "question": "Hoạt động đường bộ bao gồm những nhóm hoạt động nào?",
+    "expected_answer": "Bao gồm các hoạt động liên quan đến quy hoạch, đầu tư, xây dựng, quản lý, sử dụng, vận hành, khai thác, bảo trì, bảo vệ kết cấu hạ tầng đường bộ và vận tải đường bộ.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 2,
+    "evidence_quote": "1. Hoạt động đường bộ bao gồm: hoạt động về quy hoạch, đầu tư, xây dựng, quản lý, sử dụng, vận hành, khai thác, b ảo trì, bảo vệ kết cấu hạ tầng đường bộ; vận tải đường bộ.",
+    "filter": null
+  },
+  {
+    "id": "Q02",
+    "split": "dev",
+    "type": "paraphrase",
+    "question": "Một nguyên tắc hoạt động đường bộ được nêu tại khoản 1 Điều 3 là gì?",
+    "expected_answer": "Bảo đảm giao thông thông suốt, an toàn, kết nối đồng bộ, hiệu quả, thân thiện với môi trường và phục vụ nhu cầu vận tải, đi lại.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 2,
+    "evidence_quote": "1. Bảo đảm giao thông thông suốt, an toàn, kết nối đồng bộ, hiệu quả, thân thiện với môi trường, phục vụ nhu cầu vận tải hàng hóa và đi l ại thuận tiện của người dân, góp phần phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh và bảo vệ môi trường, phòng, chống thiên tai, hội nhập quốc tế.",
+    "filter": null
+  },
+  {
+    "id": "Q03",
+    "split": "dev",
+    "type": "direct",
+    "question": "Pháp luật có nghiêm cấm việc lấn chiếm, xây dựng trái phép trong phạm vi bảo vệ kết cấu hạ tầng đường bộ không?",
+    "expected_answer": "Có. Hành vi lấn, chiếm, sử dụng, xây dựng trái phép trong phạm vi bảo vệ kết cấu hạ tầng đường bộ bị nghiêm cấm.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 5,
+    "evidence_quote": "3. Lấn, chiếm, sử dụng, xây dựng trái phép trong phạm vi bảo vệ kết cấu hạ tầng đường bộ.",
+    "filter": null
+  },
+  {
+    "id": "Q04",
+    "split": "dev",
+    "type": "exception",
+    "question": "Đường ngõ, ngách, kiệt, hẻm đô thị không cho ô tô đi có bắt buộc bố trí hành lang an toàn đường bộ không?",
+    "expected_answer": "Không bắt buộc bố trí hành lang an toàn đường bộ trong trường hợp được nêu tại điểm e khoản 1 Điều 15.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 11,
+    "evidence_quote": "e) Đối với đường thôn, đường ngõ, ngách, kiệt, hẻm trong đô thị và đường khác không cho xe ô tô di chuy ển thì không b ắt buộc bố trí hành lang an toàn đường bộ.",
+    "filter": null
+  },
+  {
+    "id": "Q05",
+    "split": "dev",
+    "type": "direct",
+    "question": "Biển báo hiệu đường bộ gồm những loại biển nào?",
+    "expected_answer": "Biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh, biển chỉ dẫn và biển phụ.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 20,
+    "evidence_quote": "b) Biển báo hiệu đường bộ gồm: biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh, biển chỉ dẫn, biển phụ;",
+    "filter": null
+  },
+  {
+    "id": "Q06",
+    "split": "dev",
+    "type": "filter",
+    "question": "Trong Chương II về kết cấu hạ tầng đường bộ, tổ chức giao thông được thực hiện từ giai đoạn nào đến giai đoạn nào?",
+    "expected_answer": "Từ quy hoạch, đầu tư, xây dựng đến quản lý, vận hành, khai thác, sử dụng và bảo trì kết cấu hạ tầng đường bộ.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 23,
+    "evidence_quote": "1. Tổ chức giao thông đư ợc thực hiện từ giai đoạn quy ho ạch, đầu tư, xây dựng đến giai đoạn quản lý, vận hành, khai thác, sử dụng, bảo trì kết cấu hạ tầng đường bộ nhằm bảo đảm giao thông thông suốt, an toàn, hiệu quả.",
+    "filter": {
+      "metadata": {
+        "chapter": "II"
+      }
+    }
+  },
+  {
+    "id": "Q07",
+    "split": "dev",
+    "type": "direct",
+    "question": "Khổ giới hạn của đường bộ được hiểu là gì?",
+    "expected_answer": "Là khoảng trống có kích thước giới hạn về chiều rộng, chiều cao để xe và hàng xếp trên xe đi qua an toàn theo quy chuẩn, tiêu chuẩn kỹ thuật.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 25,
+    "evidence_quote": "2. Khổ giới hạn của đường bộ là khoảng trống có kích thư ớc giới hạn về chiều rộng, chiều cao của đường bộ để các xe, bao gồm cả hàng hóa xếp trên xe đi qua đư ợc an toàn và đư ợc xác đ ịnh theo quy chu ẩn, tiêu chu ẩn kỹ thuật của đường bộ.",
+    "filter": null
+  },
+  {
+    "id": "Q08",
+    "split": "dev",
+    "type": "direct",
+    "question": "Bảo trì kết cấu hạ tầng đường bộ bao gồm những nhóm công việc chính nào?",
+    "expected_answer": "Bảo dưỡng; sửa chữa; kiểm tra, quan trắc, kiểm định chất lượng và đánh giá an toàn kết cấu hạ tầng đường bộ.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 33,
+    "evidence_quote": "1. Bảo trì kết cấu hạ tầng đường bộ là tập hợp các công việc nhằm bảo đảm và duy trì hoạt động bình thường, an toàn của kết cấu hạ tầng đường bộ theo quy định của thiết kế trong quá trình vận hành, khai thác, sử dụng, bao gồm: a) Bảo dưỡng kết cấu hạ tầng đường bộ; b) Sửa chữa kết cấu hạ tầng đường bộ; c) Kiểm tra, quan tr ắc, kiểm định chất lượng, đánh giá an toàn kết cấu hạ tầng đường bộ.",
+    "filter": null
+  },
+  {
+    "id": "Q09",
+    "split": "dev",
+    "type": "paraphrase",
+    "question": "Điểm khác biệt về tổ chức giao cắt giữa đường cao tốc và đường thông thường được nêu ở Điều 44 là gì?",
+    "expected_answer": "Đường cao tốc không giao nhau cùng mức với một hoặc các đường khác và chỉ cho xe ra, vào ở những điểm nhất định.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 40,
+    "evidence_quote": "1. Đường bộ cao tốc (sau đây gọi là đường cao tốc) là một cấp kỹ thuật của đường bộ, chỉ dành cho m ột số loại xe cơ gi ới, xe máy chuyên dùng tham gia giao thông theo quy định của pháp luật, có dải phân cách phân chia hai chi ều xe chạy riêng bi ệt, không giao nhau cùng m ức với một hoặc các đư ờng khác, ch ỉ cho xe ra, vào ở những điểm nhất định, có hàng rào b ảo vệ, trang thi ết bị phục vụ, bảo đảm giao thông liên tục, an toàn, rút ngắn thời gian hành trình.",
+    "filter": null
+  },
+  {
+    "id": "Q10",
+    "split": "dev",
+    "type": "condition",
+    "question": "Những tuyến đường cao tốc thuộc sở hữu toàn dân nào thuộc diện Nhà nước thu phí sử dụng?",
+    "expected_answer": "Đường cao tốc do Nhà nước đầu tư theo hình thức đầu tư công và đường cao tốc đầu tư theo hình thức khác khi kết thúc hợp đồng, chuyển giao cho Nhà nước.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 43,
+    "evidence_quote": "1. Nhà nước thu phí sử dụng đường cao tốc đối với phương tiện lưu thông trên đường cao tốc thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và trực tiếp quản lý, khai thác, bao gồm: a) Đường cao tốc do Nhà nước đầu tư theo hình thức đầu tư công; b) Đường cao tốc được đầu tư theo các hình thức khác khi kết thúc hợp đồng, chuyển giao cho Nhà nước.",
+    "filter": null
+  },
+  {
+    "id": "Q11",
+    "split": "dev",
+    "type": "filter",
+    "question": "Trong Chương III, khi phát hiện nguy cơ mất an toàn trên đường cao tốc, sau khi dừng sử dụng đường người quản lý phải thông báo trong bao lâu?",
+    "expected_answer": "Trong thời hạn không quá 60 phút kể từ thời điểm dừng phải thông báo cho người có thẩm quyền về nguyên nhân tạm dừng.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 44,
+    "evidence_quote": "a) Kịp thời dừng sử dụng đường cao tốc, trong thời hạn không quá 60 phút kể từ thời điểm dừng phải thông báo cho ngư ời có thẩm quyền về nguyên nhân phải tạm dừng và chịu trách nhiệm về quyết định của mình;",
+    "filter": {
+      "metadata": {
+        "chapter": "III"
+      }
+    }
+  },
+  {
+    "id": "Q12",
+    "split": "dev",
+    "type": "paraphrase",
+    "question": "Trạm dừng nghỉ trên đường cao tốc hỗ trợ những nhu cầu gì?",
+    "expected_answer": "Cung cấp dịch vụ cho người tham gia giao thông, hỗ trợ cứu nạn cứu hộ, sửa chữa và cung cấp nhiên liệu, năng lượng cho phương tiện.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 45,
+    "evidence_quote": "1. Trạm dừng nghỉ được xây dựng theo quy chuẩn kỹ thuật quốc gia do Bộ trưởng Bộ Xây dựng34 ban hành và tiêu chu ẩn kỹ thuật do c ấp có th ẩm quyền công bố để phục vụ khai thác đ ồng bộ với công trình đư ờng cao t ốc, cung c ấp các dịch vụ cho người tham gia giao thông đư ờng bộ, hỗ trợ công tác c ứu nạn, cứu hộ, sửa chữa, cung c ấp nhiên li ệu, năng lư ợng cho phương ti ện tham gia giao thông đường bộ.",
+    "filter": null
+  },
+  {
+    "id": "Q13",
+    "split": "dev",
+    "type": "direct",
+    "question": "Hoạt động vận tải đường bộ gồm hai nhóm hoạt động nào?",
+    "expected_answer": "Hoạt động kinh doanh vận tải và hoạt động vận tải nội bộ.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 48,
+    "evidence_quote": "Hoạt động vận tải đường bộ gồm hoạt động kinh doanh vận tải và hoạt động vận tải nội bộ.",
+    "filter": null
+  },
+  {
+    "id": "Q14",
+    "split": "dev",
+    "type": "direct",
+    "question": "Đơn vị kinh doanh vận tải hành khách bằng ô tô có phải công bố tiêu chuẩn chất lượng dịch vụ không?",
+    "expected_answer": "Có, đây là một trách nhiệm của đơn vị kinh doanh vận tải hành khách bằng xe ô tô.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 50,
+    "evidence_quote": "c) Công bố tiêu chuẩn chất lượng dịch vụ vận tải;",
+    "filter": null
+  },
+  {
+    "id": "Q15",
+    "split": "dev",
+    "type": "condition",
+    "question": "Hành khách được quyền từ chối chuyến đi trước khi xe khởi hành và được hoàn vé theo quy định không?",
+    "expected_answer": "Có. Hành khách được từ chối chuyến đi trước khi phương tiện khởi hành và được trả lại tiền vé theo quy định.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 52,
+    "evidence_quote": "b) Được nhận vé hoặc chứng từ thay vé; được từ chối chuyến đi trước khi phương tiện khởi hành và được trả lại tiền vé theo quy định;",
+    "filter": null
+  },
+  {
+    "id": "Q16",
+    "split": "test",
+    "type": "paraphrase",
+    "question": "Giấy vận tải trong vận tải hàng hóa bằng ô tô có chức năng chứng minh điều gì?",
+    "expected_answer": "Xác nhận người lái xe đã nhận hàng với số lượng, chủng loại, tình trạng hàng hóa để vận tải đến nơi trả hàng và là bằng chứng của hợp đồng vận tải hàng hóa.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 52,
+    "evidence_quote": "1. Giấy vận tải là giấy tờ để xác nhận việc người lái xe đã nhận hàng hóa với số lượng, chủng loại, tình tr ạng hàng hóa đ ể vận tải đến nơi tr ả hàng; là b ằng chứng của hợp đồng vận tải hàng hóa.",
+    "filter": null
+  },
+  {
+    "id": "Q17",
+    "split": "test",
+    "type": "filter",
+    "question": "Trong Chương IV về vận tải đường bộ, đơn vị vận tải được miễn bồi thường hàng hóa ký gửi khi thiệt hại do nguyên nhân bất khả kháng không?",
+    "expected_answer": "Có. Nguyên nhân bất khả kháng là một trong các trường hợp được miễn bồi thường thiệt hại hàng hóa ký gửi.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 56,
+    "evidence_quote": "7. Đơn vị kinh doanh vận tải được miễn bồi thường thiệt hại hàng hóa ký gửi trong các trường hợp sau đây: a) Do đặc tính tự nhiên hoặc khuyết tật vốn có của hàng hóa ký gửi hoặc hao hụt ở mức cho phép; b) Do việc bắt giữ hoặc cưỡng chế của cơ quan nhà nước có thẩm quyền đối với hàng hóa ký gửi; c) Do nguyên nhân bất khả kháng;",
+    "filter": {
+      "metadata": {
+        "chapter": "IV"
+      }
+    }
+  },
+  {
+    "id": "Q18",
+    "split": "test",
+    "type": "condition",
+    "question": "Nếu cơ sở giáo dục tự tổ chức xe đưa đón học sinh, phải đáp ứng quy định nào?",
+    "expected_answer": "Phải đáp ứng quy định về hoạt động vận tải nội bộ bằng xe ô tô.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 57,
+    "evidence_quote": "a) Trường hợp cơ sở giáo dục tự tổ chức hoạt động đưa đón trẻ em mầm non, học sinh phải đáp ứng quy định về hoạt động vận tải nội bộ bằng xe ô tô;",
+    "filter": null
+  },
+  {
+    "id": "Q19",
+    "split": "test",
+    "type": "direct",
+    "question": "Đơn vị kinh doanh dịch vụ bãi đỗ xe có được cung cấp dịch vụ sửa chữa phương tiện không?",
+    "expected_answer": "Có. Bảo dưỡng, sửa chữa phương tiện giao thông đường bộ là một trong các dịch vụ được phép thực hiện.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 58,
+    "evidence_quote": "2. Đơn vị kinh doanh dịch vụ bãi đỗ xe được thực hiện các dịch vụ sau đây: a) Trông giữ phương tiện giao thông đường bộ; b) Bảo dưỡng, sửa chữa phương tiện giao thông đường bộ;",
+    "filter": null
+  },
+  {
+    "id": "Q20",
+    "split": "test",
+    "type": "exception",
+    "question": "Xe cứu hộ giao thông đường bộ có được dùng để kinh doanh vận tải hàng hóa bằng ô tô không?",
+    "expected_answer": "Không. Tổ chức, cá nhân kinh doanh cứu hộ không được sử dụng xe cứu hộ để kinh doanh vận tải hàng hóa bằng xe ô tô.",
+    "gold_source_id": "luat_duong_bo_2026",
+    "gold_page": 61,
+    "evidence_quote": "c) Không được sử dụng xe cứu hộ để kinh doanh vận tải hàng hóa bằng xe ô tô.",
+    "filter": null
+  }
+]

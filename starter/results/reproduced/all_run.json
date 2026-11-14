@@ -1,0 +1,26 @@
+{
+  "recorded_at": "2026-11-14T12:28:23.551176+07:00",
+  "command": "all",
+  "model": "intfloat/multilingual-e5-small",
+  "revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "dimensions": 384,
+  "metric": "cosine",
+  "search": "exact SQL scan",
+  "postgresql": "16.16 (Debian 16.16-1.pgdg12+1)",
+  "pgvector": "0.8.7",
+  "python": "3.13.3",
+  "packages": {
+    "sentence-transformers": "6.3.0",
+    "transformers": "5.23.0",
+    "torch": "2.15.0",
+    "psycopg": "3.3.8",
+    "pypdf": "6.21.4",
+    "python-dotenv": "1.2.4",
+    "numpy": "2.5.4"
+  },
+  "device": "mps:0",
+  "max_sequence_length": 512,
+  "elapsed_seconds": 28.880067624995718,
+  "peak_rss_bytes": 949960704,
+  "secrets": "Environment values intentionally excluded"
+}

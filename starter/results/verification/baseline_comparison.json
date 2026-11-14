@@ -1,0 +1,433 @@
+{
+  "unchanged_sha256": {
+    "starter/data/benchmark_questions.json": true,
+    "starter/data/benchmark_source_extract.txt": true,
+    "starter/data/2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf": true,
+    "starter/results/dev_traces.json": true,
+    "starter/results/dev_summary.json": true,
+    "starter/results/test_traces.json": true,
+    "starter/results/test_summary.json": true
+  },
+  "trace_comparisons": [
+    {
+      "id": "Q01",
+      "strategy": "A",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q01",
+      "strategy": "B",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q01",
+      "strategy": "C",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q02",
+      "strategy": "A",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q02",
+      "strategy": "B",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q02",
+      "strategy": "C",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q03",
+      "strategy": "A",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q03",
+      "strategy": "B",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q03",
+      "strategy": "C",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q04",
+      "strategy": "A",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q04",
+      "strategy": "B",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q04",
+      "strategy": "C",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q05",
+      "strategy": "A",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q05",
+      "strategy": "B",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q05",
+      "strategy": "C",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q06",
+      "strategy": "A",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q06",
+      "strategy": "B",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q06",
+      "strategy": "C",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q07",
+      "strategy": "A",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q07",
+      "strategy": "B",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q07",
+      "strategy": "C",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q08",
+      "strategy": "A",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q08",
+      "strategy": "B",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q08",
+      "strategy": "C",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q09",
+      "strategy": "A",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q09",
+      "strategy": "B",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q09",
+      "strategy": "C",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q10",
+      "strategy": "A",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q10",
+      "strategy": "B",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q10",
+      "strategy": "C",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q11",
+      "strategy": "A",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q11",
+      "strategy": "B",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q11",
+      "strategy": "C",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q12",
+      "strategy": "A",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q12",
+      "strategy": "B",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q12",
+      "strategy": "C",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q13",
+      "strategy": "A",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q13",
+      "strategy": "B",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q13",
+      "strategy": "C",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q14",
+      "strategy": "A",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q14",
+      "strategy": "B",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q14",
+      "strategy": "C",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q15",
+      "strategy": "A",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q15",
+      "strategy": "B",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q15",
+      "strategy": "C",
+      "split": "dev",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q16",
+      "strategy": "A",
+      "split": "test",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q16",
+      "strategy": "B",
+      "split": "test",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q16",
+      "strategy": "C",
+      "split": "test",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q17",
+      "strategy": "A",
+      "split": "test",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q17",
+      "strategy": "B",
+      "split": "test",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q17",
+      "strategy": "C",
+      "split": "test",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q18",
+      "strategy": "A",
+      "split": "test",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q18",
+      "strategy": "B",
+      "split": "test",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q18",
+      "strategy": "C",
+      "split": "test",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q19",
+      "strategy": "A",
+      "split": "test",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q19",
+      "strategy": "B",
+      "split": "test",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q19",
+      "strategy": "C",
+      "split": "test",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q20",
+      "strategy": "A",
+      "split": "test",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q20",
+      "strategy": "B",
+      "split": "test",
+      "same_top3_ids": true,
+      "same_metrics": true
+    },
+    {
+      "id": "Q20",
+      "strategy": "C",
+      "split": "test",
+      "same_top3_ids": true,
+      "same_metrics": true
+    }
+  ]
+}

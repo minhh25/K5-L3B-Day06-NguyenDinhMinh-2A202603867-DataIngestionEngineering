@@ -1,0 +1,921 @@
+{
+  "gold_questions_verified": 20,
+  "physical_pages": 65,
+  "useful_pages": 64,
+  "normalized_characters": 158019,
+  "page_coverage": [
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 1,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 2,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 3,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 4,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 5,
+      "chunks": 3,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 6,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 7,
+      "chunks": 3,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 8,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 9,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 10,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 11,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 12,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 13,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 14,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 15,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 16,
+      "chunks": 3,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 17,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 18,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 19,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 20,
+      "chunks": 3,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 21,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 22,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 23,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 24,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 25,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 26,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 27,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 28,
+      "chunks": 3,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 29,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 30,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 31,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 32,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 33,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 34,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 35,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 36,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 37,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 38,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 39,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 40,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 41,
+      "chunks": 3,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 42,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 43,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 44,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 45,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 46,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 47,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 48,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 49,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 50,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 51,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 52,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 53,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 54,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 55,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 56,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 57,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 58,
+      "chunks": 3,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 59,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 60,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 61,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 62,
+      "chunks": 3,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 63,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 64,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "fixed_800_100",
+      "document_id": "luat_duong_bo_2026",
+      "page": 65,
+      "chunks": 1,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 1,
+      "chunks": 3,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 2,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 3,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 4,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 5,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 6,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 7,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 8,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 9,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 10,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 11,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 12,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 13,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 14,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 15,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 16,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 17,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 18,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 19,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 20,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 21,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 22,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 23,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 24,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 25,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 26,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 27,
+      "chunks": 6,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 28,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 29,
+      "chunks": 6,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 30,
+      "chunks": 6,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 31,
+      "chunks": 6,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 32,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 33,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 34,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 35,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 36,
+      "chunks": 6,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 37,
+      "chunks": 6,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 38,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 39,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 40,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 41,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 42,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 43,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 44,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 45,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 46,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 47,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 48,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 49,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 50,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 51,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 52,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 53,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 54,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 55,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 56,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 57,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 58,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 59,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 60,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 61,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 62,
+      "chunks": 6,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 63,
+      "chunks": 4,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 64,
+      "chunks": 5,
+      "uncovered_nonwhitespace_characters": 0
+    },
+    {
+      "strategy": "paragraph_800",
+      "document_id": "luat_duong_bo_2026",
+      "page": 65,
+      "chunks": 1,
+      "uncovered_nonwhitespace_characters": 0
+    }
+  ],
+  "ocr_run": false,
+  "extraction_errors": 0,
+  "benchmark_provenance": "15/5 split existed on arrival; cannot independently prove labels or selection criterion were frozen before original baseline. TEST already seen; no holdout claim."
+}

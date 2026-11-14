@@ -1,0 +1,55 @@
+{
+  "questions": [
+    {
+      "id": "Q06",
+      "split": "dev",
+      "filter": {
+        "metadata": {
+          "chapter": "II"
+        }
+      },
+      "compliant": true,
+      "retrieval_hit_at_3": 1,
+      "top3_ids": [
+        "luat_duong_bo_2026_p23_paragraph_800_2",
+        "luat_duong_bo_2026_p17_paragraph_800_3",
+        "luat_duong_bo_2026_p19_paragraph_800_1"
+      ]
+    },
+    {
+      "id": "Q11",
+      "split": "dev",
+      "filter": {
+        "metadata": {
+          "chapter": "III"
+        }
+      },
+      "compliant": true,
+      "retrieval_hit_at_3": 0,
+      "top3_ids": [
+        "luat_duong_bo_2026_p44_paragraph_800_2",
+        "luat_duong_bo_2026_p47_paragraph_800_2",
+        "luat_duong_bo_2026_p44_paragraph_800_3"
+      ]
+    },
+    {
+      "id": "Q17",
+      "split": "test",
+      "filter": {
+        "metadata": {
+          "chapter": "IV"
+        }
+      },
+      "compliant": true,
+      "retrieval_hit_at_3": 1,
+      "top3_ids": [
+        "luat_duong_bo_2026_p56_paragraph_800_3",
+        "luat_duong_bo_2026_p56_paragraph_800_2",
+        "luat_duong_bo_2026_p53_paragraph_800_3"
+      ]
+    }
+  ],
+  "dev_compliant": "2/2",
+  "test_compliant": "1/1",
+  "note": "Compliance is independent of retrieval accuracy; Q11 complies but lacks full evidence."
+}

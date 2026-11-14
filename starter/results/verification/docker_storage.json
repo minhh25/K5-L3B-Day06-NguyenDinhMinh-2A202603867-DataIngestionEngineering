@@ -1,0 +1,15 @@
+{
+  "container": "day6_student_starter-postgres-1",
+  "compose_project": "day6_student_starter",
+  "image": "pgvector/pgvector:0.8.7-pg16",
+  "observed_health": "healthy",
+  "named_volume_mounts": [
+    {
+      "type": "volume",
+      "name": "day6_student_starter_pg_data",
+      "destination": "/var/lib/postgresql/data",
+      "rw": true
+    }
+  ],
+  "restart_test_performed": false
+}

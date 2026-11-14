@@ -1,0 +1,397 @@
+{
+  "recorded_at": "2026-11-14T16:27:43.704910+07:00",
+  "frozen_files_unchanged": {
+    "starter/results/dev_summary.json": true,
+    "starter/results/test_traces.json": true,
+    "starter/results/coherence_positions.json": true,
+    "starter/results/dev_traces.json": true,
+    "starter/results/test_summary.json": true,
+    "starter/results/reproduced/engineering_verification.json": true,
+    "starter/results/reproduced/ingestion_pages.json": true,
+    "starter/results/reproduced/retrieval_report.md": true,
+    "starter/results/reproduced/paragraph_800_chunks.json": true,
+    "starter/results/reproduced/dev_summary.json": true,
+    "starter/results/reproduced/dev_runtime.json": true,
+    "starter/results/reproduced/ingest_summary.json": true,
+    "starter/results/reproduced/retrieval_summary.json": true,
+    "starter/results/reproduced/test_traces.json": true,
+    "starter/results/reproduced/test_runtime.json": true,
+    "starter/results/reproduced/dev_traces.json": true,
+    "starter/results/reproduced/test_summary.json": true,
+    "starter/results/reproduced/fixed_800_100_chunks.json": true,
+    "starter/results/reproduced/all_run.json": true,
+    "starter/results/verification/coherence_selected_chunks.json": true,
+    "starter/results/review_check/ingestion_pages.json": true,
+    "starter/results/review_check/retrieval_report.md": true,
+    "starter/results/review_check/dev_summary.json": true,
+    "starter/results/review_check/dev_runtime.json": true,
+    "starter/results/review_check/retrieval_summary.json": true,
+    "starter/results/review_check/test_traces.json": true,
+    "starter/results/review_check/eval_run.json": true,
+    "starter/results/review_check/test_runtime.json": true,
+    "starter/results/review_check/dev_traces.json": true,
+    "starter/results/review_check/test_summary.json": true,
+    "starter/data/.gitkeep": true,
+    "starter/data/2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf": true,
+    "starter/data/benchmark_source_extract.txt": true,
+    "starter/data/benchmark_questions.json": true,
+    "benchmark/baseline_lock.json": true
+  },
+  "frozen_count": 35,
+  "human_fields_unchanged": {
+    "grounding_review.csv": true,
+    "coherence_review.csv": true
+  },
+  "ai_scores_unchanged_after_real_reassessment": {
+    "grounding_review.csv": true,
+    "coherence_review.csv": true
+  },
+  "ai_assessment_coverage": {
+    "grounding": 15,
+    "coherence": 30,
+    "metadata": 45
+  },
+  "metadata_status_counts": {
+    "PASS": 45,
+    "FAIL": 0
+  },
+  "top3_comparisons": [
+    {
+      "question": "Q01",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q01",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q01",
+      "config": "C",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q02",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q02",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q02",
+      "config": "C",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q03",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q03",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q03",
+      "config": "C",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q04",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q04",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q04",
+      "config": "C",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q05",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q05",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q05",
+      "config": "C",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q06",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q06",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q06",
+      "config": "C",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q07",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q07",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q07",
+      "config": "C",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q08",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q08",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q08",
+      "config": "C",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q09",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q09",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q09",
+      "config": "C",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q10",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q10",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q10",
+      "config": "C",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q11",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q11",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q11",
+      "config": "C",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q12",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q12",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q12",
+      "config": "C",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q13",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q13",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q13",
+      "config": "C",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q14",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q14",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q14",
+      "config": "C",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q15",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q15",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q15",
+      "config": "C",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q16",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q16",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q16",
+      "config": "C",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q17",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q17",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q17",
+      "config": "C",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q18",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q18",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q18",
+      "config": "C",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q19",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q19",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q19",
+      "config": "C",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q20",
+      "config": "A",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q20",
+      "config": "B",
+      "same_top3_ids": true
+    },
+    {
+      "question": "Q20",
+      "config": "C",
+      "same_top3_ids": true
+    }
+  ],
+  "same_top3_count": 60,
+  "summary_matches_baseline_and_reproduced": true,
+  "idempotency": {
+    "fixed_800_100": {
+      "before": 250,
+      "expected": 250,
+      "stable_ids": true,
+      "real_documents_reembedded": 250,
+      "after": 250
+    },
+    "paragraph_800": {
+      "before": 309,
+      "expected": 309,
+      "stable_ids": true,
+      "real_documents_reembedded": 309,
+      "after": 309
+    }
+  },
+  "source_change": {
+    "schema_isolated": true,
+    "before_chunks": 5,
+    "after_chunks": 1,
+    "removed_stale_ids": [
+      "synthetic_revision_test_p1_fixed_1",
+      "synthetic_revision_test_p1_fixed_2",
+      "synthetic_revision_test_p1_fixed_3",
+      "synthetic_revision_test_p1_fixed_4"
+    ],
+    "same_id_updated_text": true,
+    "persistent_after_reconnect": true
+  },
+  "extra_strategies_preserved": true,
+  "no_duplicate_ids": true,
+  "test_schema_cleaned": true,
+  "permission_verified": false,
+  "human_reviews_created": false,
+  "git_commit_or_push_performed": false
+}

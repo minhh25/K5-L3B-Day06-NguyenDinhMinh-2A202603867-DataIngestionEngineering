@@ -1,0 +1,162 @@
+{
+  "status": "Nhãn AI đề xuất — CHƯA phải chấm thủ công bởi người học. Chỉ đánh giá evidence retrieval, không phải độ chính xác câu trả lời LLM.",
+  "trace_sha256": "cab2f173eb34cf2eb4f08aac734712c649314f3a41d584532a5e92769e956425",
+  "grounding": {
+    "A": {
+      "n": 5,
+      "ai_counts": {
+        "0": 0,
+        "1": 1,
+        "2": 4
+      },
+      "ai_assessed": 5,
+      "ai_mean": 1.8,
+      "human_reviewed": 5,
+      "human_mean": 1.8,
+      "human_counts": {
+        "0": 0,
+        "1": 1,
+        "2": 4
+      }
+    },
+    "B": {
+      "n": 5,
+      "ai_counts": {
+        "0": 0,
+        "1": 0,
+        "2": 5
+      },
+      "ai_assessed": 5,
+      "ai_mean": 2.0,
+      "human_reviewed": 5,
+      "human_mean": 2.0,
+      "human_counts": {
+        "0": 0,
+        "1": 0,
+        "2": 5
+      }
+    },
+    "C": {
+      "n": 5,
+      "ai_counts": {
+        "0": 0,
+        "1": 0,
+        "2": 5
+      },
+      "ai_assessed": 5,
+      "ai_mean": 2.0,
+      "human_reviewed": 5,
+      "human_mean": 2.0,
+      "human_counts": {
+        "0": 0,
+        "1": 0,
+        "2": 5
+      }
+    }
+  },
+  "coherence": {
+    "A": {
+      "n": 10,
+      "ai_counts": {
+        "0": 0,
+        "1": 10,
+        "2": 0
+      },
+      "ai_assessed": 10,
+      "ai_mean": 1.0,
+      "human_reviewed": 10,
+      "human_mean": 1.0,
+      "human_counts": {
+        "0": 0,
+        "1": 10,
+        "2": 0
+      }
+    },
+    "B": {
+      "n": 10,
+      "ai_counts": {
+        "0": 0,
+        "1": 10,
+        "2": 0
+      },
+      "ai_assessed": 10,
+      "ai_mean": 1.0,
+      "human_reviewed": 10,
+      "human_mean": 1.0,
+      "human_counts": {
+        "0": 0,
+        "1": 10,
+        "2": 0
+      }
+    },
+    "C": {
+      "n": 10,
+      "ai_counts": {
+        "0": 0,
+        "1": 10,
+        "2": 0
+      },
+      "ai_assessed": 10,
+      "ai_mean": 1.0,
+      "human_reviewed": 10,
+      "human_mean": 1.0,
+      "human_counts": {
+        "0": 0,
+        "1": 10,
+        "2": 0
+      }
+    }
+  },
+  "metadata": {
+    "A": {
+      "records": 15,
+      "base_correct": 15,
+      "required_correct": 15,
+      "ai_assessed": 15,
+      "correctness_count": 15,
+      "completeness_count": 15,
+      "record_pass_count": 15,
+      "filter_applicable_records": 0,
+      "filter_compliant_records": 0,
+      "chapter_present": 0,
+      "filtered_questions": 0,
+      "filter_compliant_questions": 0
+    },
+    "B": {
+      "records": 15,
+      "base_correct": 15,
+      "required_correct": 15,
+      "ai_assessed": 15,
+      "correctness_count": 15,
+      "completeness_count": 15,
+      "record_pass_count": 15,
+      "filter_applicable_records": 0,
+      "filter_compliant_records": 0,
+      "chapter_present": 15,
+      "filtered_questions": 0,
+      "filter_compliant_questions": 0
+    },
+    "C": {
+      "records": 15,
+      "base_correct": 15,
+      "required_correct": 15,
+      "ai_assessed": 15,
+      "correctness_count": 15,
+      "completeness_count": 15,
+      "record_pass_count": 15,
+      "filter_applicable_records": 3,
+      "filter_compliant_records": 3,
+      "chapter_present": 15,
+      "filtered_questions": 1,
+      "filter_compliant_questions": 1
+    }
+  },
+  "metadata_human_confirmation": {
+    "confirmed": true,
+    "reviewed_records": 45,
+    "expected_records": 45,
+    "signed": true,
+    "all_records_checked": true,
+    "status": "ĐÃ DUYỆT"
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "ai_reviewer": "Codex AI",
+  "method": "Review full saved evidence and index text at gold page without changing gold or queries.",
+  "cases": [
+    {
+      "question_id": "Q09",
+      "gold_page": 40,
+      "analysis": "B/C Top-1 giữ đủ định nghĩa Điều 44, A Top-3 lạc sang vận hành/đầu tư/tiêu chuẩn kỹ thuật; cần kiểm tra thêm biểu diễn vì gold dài bị cắt trong fixed. Không tính chỉ đúng trang 40 là hit.",
+      "full_exact_gold_in_index": {
+        "fixed_800_100": [],
+        "paragraph_800": [
+          "luat_duong_bo_2026_p40_paragraph_800_1"
+        ]
+      },
+      "retrieval": [
+        {
+          "config": "A",
+          "hit_at_1": 0,
+          "evidence_hit_at_3": 0,
+          "top3": [
+            {
+              "chunk_id": "luat_duong_bo_2026_p47_fixed_2",
+              "page": 47
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p41_fixed_1",
+              "page": 41
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p40_fixed_2",
+              "page": 40
+            }
+          ]
+        },
+        {
+          "config": "B",
+          "hit_at_1": 1,
+          "evidence_hit_at_3": 1,
+          "top3": [
+            {
+              "chunk_id": "luat_duong_bo_2026_p40_paragraph_800_1",
+              "page": 40
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p41_paragraph_800_2",
+              "page": 41
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p29_paragraph_800_1",
+              "page": 29
+            }
+          ]
+        },
+        {
+          "config": "C",
+          "hit_at_1": 1,
+          "evidence_hit_at_3": 1,
+          "top3": [
+            {
+              "chunk_id": "luat_duong_bo_2026_p40_paragraph_800_1",
+              "page": 40
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p41_paragraph_800_2",
+              "page": 41
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p29_paragraph_800_1",
+              "page": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "Q10",
+      "gold_page": 43,
+      "analysis": "Danh sách hai loại cao tốc và điều kiện chuyển giao bị tách trong A/B. B Top-1/3 có hai phần nhưng không một chunk chứa đủ gold; không ghép cho metric chính.",
+      "full_exact_gold_in_index": {
+        "fixed_800_100": [],
+        "paragraph_800": []
+      },
+      "retrieval": [
+        {
+          "config": "A",
+          "hit_at_1": 0,
+          "evidence_hit_at_3": 0,
+          "top3": [
+            {
+              "chunk_id": "luat_duong_bo_2026_p43_fixed_2",
+              "page": 43
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p43_fixed_1",
+              "page": 43
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p47_fixed_3",
+              "page": 47
+            }
+          ]
+        },
+        {
+          "config": "B",
+          "hit_at_1": 0,
+          "evidence_hit_at_3": 0,
+          "top3": [
+            {
+              "chunk_id": "luat_duong_bo_2026_p43_paragraph_800_2",
+              "page": 43
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p39_paragraph_800_3",
+              "page": 39
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p43_paragraph_800_3",
+              "page": 43
+            }
+          ]
+        },
+        {
+          "config": "C",
+          "hit_at_1": 0,
+          "evidence_hit_at_3": 0,
+          "top3": [
+            {
+              "chunk_id": "luat_duong_bo_2026_p43_paragraph_800_2",
+              "page": 43
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p39_paragraph_800_3",
+              "page": 39
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p43_paragraph_800_3",
+              "page": 43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "Q11",
+      "gold_page": 44,
+      "analysis": "A p44_fixed_2 giữ đủ câu. Paragraph có 60 phút và nghĩa vụ thông báo nhưng cắt đuôi trách nhiệm quyết định giữa p44_paragraph_800_2/_3; filter chương III đúng vẫn exact miss.",
+      "full_exact_gold_in_index": {
+        "fixed_800_100": [
+          "luat_duong_bo_2026_p44_fixed_2"
+        ],
+        "paragraph_800": []
+      },
+      "retrieval": [
+        {
+          "config": "A",
+          "hit_at_1": 1,
+          "evidence_hit_at_3": 1,
+          "top3": [
+            {
+              "chunk_id": "luat_duong_bo_2026_p44_fixed_2",
+              "page": 44
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p44_fixed_1",
+              "page": 44
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p44_fixed_3",
+              "page": 44
+            }
+          ]
+        },
+        {
+          "config": "B",
+          "hit_at_1": 0,
+          "evidence_hit_at_3": 0,
+          "top3": [
+            {
+              "chunk_id": "luat_duong_bo_2026_p44_paragraph_800_2",
+              "page": 44
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p47_paragraph_800_2",
+              "page": 47
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p44_paragraph_800_3",
+              "page": 44
+            }
+          ]
+        },
+        {
+          "config": "C",
+          "hit_at_1": 0,
+          "evidence_hit_at_3": 0,
+          "top3": [
+            {
+              "chunk_id": "luat_duong_bo_2026_p44_paragraph_800_2",
+              "page": 44
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p47_paragraph_800_2",
+              "page": 47
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p44_paragraph_800_3",
+              "page": 44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "Q12",
+      "gold_page": 45,
+      "analysis": "Gold gắn tiêu chuẩn với danh sách dịch vụ trạm dừng nghỉ bị phân mảnh ở p45; các chunk đúng chủ đề chưa bảo đảm giữ trọn đoạn gold. Không rút ngắn gold theo expected answer để nâng điểm.",
+      "full_exact_gold_in_index": {
+        "fixed_800_100": [],
+        "paragraph_800": []
+      },
+      "retrieval": [
+        {
+          "config": "A",
+          "hit_at_1": 0,
+          "evidence_hit_at_3": 0,
+          "top3": [
+            {
+              "chunk_id": "luat_duong_bo_2026_p45_fixed_2",
+              "page": 45
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p41_fixed_2",
+              "page": 41
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p45_fixed_1",
+              "page": 45
+            }
+          ]
+        },
+        {
+          "config": "B",
+          "hit_at_1": 0,
+          "evidence_hit_at_3": 0,
+          "top3": [
+            {
+              "chunk_id": "luat_duong_bo_2026_p45_paragraph_800_1",
+              "page": 45
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p45_paragraph_800_2",
+              "page": 45
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p45_paragraph_800_3",
+              "page": 45
+            }
+          ]
+        },
+        {
+          "config": "C",
+          "hit_at_1": 0,
+          "evidence_hit_at_3": 0,
+          "top3": [
+            {
+              "chunk_id": "luat_duong_bo_2026_p45_paragraph_800_1",
+              "page": 45
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p45_paragraph_800_2",
+              "page": 45
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p45_paragraph_800_3",
+              "page": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "Q14",
+      "gold_page": 50,
+      "analysis": "p50_paragraph_800_1 cắt sau dịch vụ, _2 bắt đầu vận tải; nhưng _2 không vào Top-3. Không có một Paragraph chunk chứa đủ gold; lỗi phân mảnh cộng thiếu phần tiếp trong retrieval. A p50_fixed_1 hit.",
+      "full_exact_gold_in_index": {
+        "fixed_800_100": [
+          "luat_duong_bo_2026_p50_fixed_1"
+        ],
+        "paragraph_800": []
+      },
+      "retrieval": [
+        {
+          "config": "A",
+          "hit_at_1": 1,
+          "evidence_hit_at_3": 1,
+          "top3": [
+            {
+              "chunk_id": "luat_duong_bo_2026_p50_fixed_1",
+              "page": 50
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p50_fixed_0",
+              "page": 50
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p51_fixed_0",
+              "page": 51
+            }
+          ]
+        },
+        {
+          "config": "B",
+          "hit_at_1": 0,
+          "evidence_hit_at_3": 0,
+          "top3": [
+            {
+              "chunk_id": "luat_duong_bo_2026_p50_paragraph_800_1",
+              "page": 50
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p48_paragraph_800_3",
+              "page": 48
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p51_paragraph_800_1",
+              "page": 51
+            }
+          ]
+        },
+        {
+          "config": "C",
+          "hit_at_1": 0,
+          "evidence_hit_at_3": 0,
+          "top3": [
+            {
+              "chunk_id": "luat_duong_bo_2026_p50_paragraph_800_1",
+              "page": 50
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p48_paragraph_800_3",
+              "page": 48
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p51_paragraph_800_1",
+              "page": 51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "Q16",
+      "gold_page": 52,
+      "analysis": "A p52_fixed_2 thiếu vế chứng minh hợp đồng và các hit p53 không bổ sung; grounding AI 1. B/C p52_paragraph_800_3 có đủ định nghĩa, grounding 2. Không dùng câu đầy đủ trên PDF bên ngoài retrieval để cứu A.",
+      "full_exact_gold_in_index": {
+        "fixed_800_100": [],
+        "paragraph_800": [
+          "luat_duong_bo_2026_p52_paragraph_800_3"
+        ]
+      },
+      "retrieval": [
+        {
+          "config": "A",
+          "hit_at_1": 0,
+          "evidence_hit_at_3": 0,
+          "top3": [
+            {
+              "chunk_id": "luat_duong_bo_2026_p52_fixed_2",
+              "page": 52
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p53_fixed_1",
+              "page": 53
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p53_fixed_2",
+              "page": 53
+            }
+          ]
+        },
+        {
+          "config": "B",
+          "hit_at_1": 1,
+          "evidence_hit_at_3": 1,
+          "top3": [
+            {
+              "chunk_id": "luat_duong_bo_2026_p52_paragraph_800_3",
+              "page": 52
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p53_paragraph_800_2",
+              "page": 53
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p54_paragraph_800_1",
+              "page": 54
+            }
+          ]
+        },
+        {
+          "config": "C",
+          "hit_at_1": 1,
+          "evidence_hit_at_3": 1,
+          "top3": [
+            {
+              "chunk_id": "luat_duong_bo_2026_p52_paragraph_800_3",
+              "page": 52
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p53_paragraph_800_2",
+              "page": 53
+            },
+            {
+              "chunk_id": "luat_duong_bo_2026_p54_paragraph_800_1",
+              "page": 54
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

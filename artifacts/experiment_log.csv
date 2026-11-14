@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_800_100,800,100,document_id;source;page;chapter (baseline A lacked chapter),none,intfloat/multilingual-e5-small@614241f622f53c4eeff9890bdc4f31cfecc418b3;384;cosine,Overlap may preserve evidence at boundaries,9/15,11/15,4/5,4/5,Retrospective log; original preregistration not evidenced; TEST already seen; 250 chunks; latest warm ingest 4.962138s
+B,paragraph_800,800,0,document_id;source;page;chapter (baseline A lacked chapter),none,intfloat/multilingual-e5-small@614241f622f53c4eeff9890bdc4f31cfecc418b3;384;cosine,Paragraph grouping may preserve semantic units; long paragraphs still hard-split,7/15,11/15,4/5,4/5,Retrospective log; original preregistration not evidenced; TEST already seen; 309 chunks; latest warm ingest 3.402102s
+C,paragraph_800,800,0,document_id;source;page;chapter (baseline A lacked chapter),explicit chapter from question only,intfloat/multilingual-e5-small@614241f622f53c4eeff9890bdc4f31cfecc418b3;384;cosine,Explicit chapter filter may exclude unrelated chapters; no gold-derived filter,7/15,11/15,4/5,4/5,"Retrospective log; original preregistration not evidenced; TEST already seen; 309 chunks; latest warm ingest 3.402102s; shared B index, no extra ingest"

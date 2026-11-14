@@ -8,3 +8,31 @@ __pycache__/
 .DS_Store
 .pytest_cache/
 *.sqlite
+.git/
+__MACOSX/
+.cache/
+.mypy_cache/
+.ruff_cache/
+
+# Keep original source files local until redistribution permission is verified.
+starter/data/*.pdf
+starter/data/benchmark_source_extract.txt
+
+# Local drafts, repeated exports and work-session bookkeeping.
+starter/results/*_human_draft.csv
+starter/results/*_suggestions.csv
+starter/results/review_check/
+starter/results/reproduced/*_chunks.json
+starter/results/mission_check/*_chunks.json
+starter/results/verification/*_before_mission.json
+starter/results/verification/manual_grounding_original.md
+starter/results/verification/followup_*
+starter/results/verification/task_changes.json
+starter/results/verification/mission_completion.json
+starter/results/verification/unit_tests.txt
+starter/results/verification/mission_unit_tests.txt
+starter/results/verification/student_confirmation_unit_tests.txt
+starter/results/verification/git_status.txt
+starter/results/verification/commit_candidates.txt
+starter/results/verification/excluded_commit_candidates.json
+starter/results/verification/submission_checks.json

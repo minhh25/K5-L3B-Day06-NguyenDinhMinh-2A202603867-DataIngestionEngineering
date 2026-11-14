@@ -1,0 +1,872 @@
+[
+  {
+    "sample_id": "P02",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 2,
+    "anchor_char": 1183,
+    "anchor_text": "c hai bên đất của đường bộ, tính\ntừ mép ngoài phần đất để bảo vệ, bảo trì đường bộ ra hai bên để bảo",
+    "config": "A",
+    "chunk_id": "luat_duong_bo_2026_p2_fixed_1",
+    "text": "u ộc hệ thống quản lý giao\nthông thông minh; nhà h ạt quản lý đường bộ; kho chứa trang thiết bị, vật tư dự\nphòng trong lĩnh vực đường bộ; công trình kiểm soát tải trọng xe; trạm thu phí và\ncác công trình khác của đường bộ.\n4. Kết cấu hạ tầng đường bộ bao gồm: công trình đường bộ; bến xe; bãi đỗ\nxe; trạm dừng nghỉ; điểm dừng xe, đỗ xe; đất của đường bộ; hành lang an toàn\nđường bộ và các công trình phụ trợ phục vụ cho hoạt động đường bộ.\n5. Hành lang an toàn đường bộ là dải đất dọc hai bên đất của đường bộ, tính\ntừ mép ngoài phần đất để bảo vệ, bảo trì đường bộ ra hai bên để bảo đảm an toàn\ngiao thông đường bộ, bảo đảm tầm nhìn xe chạy và hạn chế ảnh hưởng đến môi\ntrường xung quanh.\n6.2 Cơ quan quản lý đường bộ là cơ quan thuộc Bộ Xây dựng giúp Bộ trưởng\nBộ Xây dựng thực hiện chức năng quản ",
+    "metadata": {
+      "page_number": 2,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "fixed_size",
+      "chunk_index": 1,
+      "start_char": 700,
+      "end_char": 1500,
+      "chunk_size": 800,
+      "overlap": 100,
+      "chapter": "I",
+      "chapters": [
+        "I"
+      ],
+      "chapter_status": "single",
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P02",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 2,
+    "anchor_char": 1183,
+    "anchor_text": "c hai bên đất của đường bộ, tính\ntừ mép ngoài phần đất để bảo vệ, bảo trì đường bộ ra hai bên để bảo",
+    "config": "B",
+    "chunk_id": "luat_duong_bo_2026_p2_paragraph_800_2",
+    "text": "ng trình kiểm soát tải trọng xe; trạm thu phí và\ncác công trình khác của đường bộ.\n4. Kết cấu hạ tầng đường bộ bao gồm: công trình đường bộ; bến xe; bãi đỗ\nxe; trạm dừng nghỉ; điểm dừng xe, đỗ xe; đất của đường bộ; hành lang an toàn\nđường bộ và các công trình phụ trợ phục vụ cho hoạt động đường bộ.\n5. Hành lang an toàn đường bộ là dải đất dọc hai bên đất của đường bộ, tính\ntừ mép ngoài phần đất để bảo vệ, bảo trì đường bộ ra hai bên để bảo đảm an toàn\ngiao thông đường bộ, bảo đảm tầm nhìn xe chạy và hạn chế ảnh hưởng đến môi\ntrường xung quanh.\n6.2 Cơ quan quản lý đường bộ là cơ quan thuộc Bộ Xây dựng giúp Bộ trưởng\nBộ Xây dựng thực hiện chức năng quản lý nhà nước về hoạt động đường bộ; cơ\nquan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh; Ủy ban nhân dân cấp xã.\n7. Người quản lý, sử dụng đườn",
+    "metadata": {
+      "page_number": 2,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "I",
+      "chapters": [
+        "I"
+      ],
+      "chapter_status": "single",
+      "start_char": 840,
+      "end_char": 1640,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P02",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 2,
+    "anchor_char": 1183,
+    "anchor_text": "c hai bên đất của đường bộ, tính\ntừ mép ngoài phần đất để bảo vệ, bảo trì đường bộ ra hai bên để bảo",
+    "config": "C",
+    "chunk_id": "luat_duong_bo_2026_p2_paragraph_800_2",
+    "text": "ng trình kiểm soát tải trọng xe; trạm thu phí và\ncác công trình khác của đường bộ.\n4. Kết cấu hạ tầng đường bộ bao gồm: công trình đường bộ; bến xe; bãi đỗ\nxe; trạm dừng nghỉ; điểm dừng xe, đỗ xe; đất của đường bộ; hành lang an toàn\nđường bộ và các công trình phụ trợ phục vụ cho hoạt động đường bộ.\n5. Hành lang an toàn đường bộ là dải đất dọc hai bên đất của đường bộ, tính\ntừ mép ngoài phần đất để bảo vệ, bảo trì đường bộ ra hai bên để bảo đảm an toàn\ngiao thông đường bộ, bảo đảm tầm nhìn xe chạy và hạn chế ảnh hưởng đến môi\ntrường xung quanh.\n6.2 Cơ quan quản lý đường bộ là cơ quan thuộc Bộ Xây dựng giúp Bộ trưởng\nBộ Xây dựng thực hiện chức năng quản lý nhà nước về hoạt động đường bộ; cơ\nquan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh; Ủy ban nhân dân cấp xã.\n7. Người quản lý, sử dụng đườn",
+    "metadata": {
+      "page_number": 2,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "I",
+      "chapters": [
+        "I"
+      ],
+      "chapter_status": "single",
+      "start_char": 840,
+      "end_char": 1640,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P03",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 3,
+    "anchor_char": 1357,
+    "anchor_text": "cấu hạ tầng đường bộ tại các đô th ị để giảm ùn t ắc giao\nthông; các tuyến đường tuần tra biên gi ới",
+    "config": "A",
+    "chunk_id": "luat_duong_bo_2026_p3_fixed_1",
+    "text": "ng với biến đổi khí hậu, thân thiện với môi trường; kết nối đồng bộ các tuyến\nđường bộ, các phương thức vận tải khác với vận tải đường bộ;\nb) Xây dựng cơ chế đẩy mạnh huy động các nguồn lực xã hội, đa dạng các\nhình thức, phương thức đầu tư, xây dựng, quản lý, vận hành, khai thác, bảo trì kết\ncấu hạ tầng đường bộ;\nc) Ưu tiên phát tri ển các tuyến đường cao tốc, các công trình, dự án đường\nbộ trọng điểm kết nối vùng, khu vực, đô thị lớn, trung tâm trong nước và quốc tế;\nkết cấu hạ tầng đường bộ vùng đồng bào dân tộc thiểu số, miền núi, hải đảo, biên\ngiới; kết cấu hạ tầng đường bộ dễ tiếp cận và bảo đảm an toàn cho các đối tượng\ndễ bị tổn thương; k ết cấu hạ tầng đường bộ tại các đô th ị để giảm ùn t ắc giao\nthông; các tuyến đường tuần tra biên gi ới, đường ven biển để phục vụ mục tiêu\nkết hợ",
+    "metadata": {
+      "page_number": 3,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "fixed_size",
+      "chunk_index": 1,
+      "start_char": 700,
+      "end_char": 1500,
+      "chunk_size": 800,
+      "overlap": 100,
+      "chapter": "I",
+      "chapters": [
+        "I"
+      ],
+      "chapter_status": "single",
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P03",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 3,
+    "anchor_char": 1357,
+    "anchor_text": "cấu hạ tầng đường bộ tại các đô th ị để giảm ùn t ắc giao\nthông; các tuyến đường tuần tra biên gi ới",
+    "config": "B",
+    "chunk_id": "luat_duong_bo_2026_p3_paragraph_800_2",
+    "text": ") Xây dựng cơ chế đẩy mạnh huy động các nguồn lực xã hội, đa dạng các\nhình thức, phương thức đầu tư, xây dựng, quản lý, vận hành, khai thác, bảo trì kết\ncấu hạ tầng đường bộ;\nc) Ưu tiên phát tri ển các tuyến đường cao tốc, các công trình, dự án đường\nbộ trọng điểm kết nối vùng, khu vực, đô thị lớn, trung tâm trong nước và quốc tế;\nkết cấu hạ tầng đường bộ vùng đồng bào dân tộc thiểu số, miền núi, hải đảo, biên\ngiới; kết cấu hạ tầng đường bộ dễ tiếp cận và bảo đảm an toàn cho các đối tượng\ndễ bị tổn thương; k ết cấu hạ tầng đường bộ tại các đô th ị để giảm ùn t ắc giao\nthông; các tuyến đường tuần tra biên gi ới, đường ven biển để phục vụ mục tiêu\nkết hợp phát triển kinh tế - xã hội với bảo đảm quốc phòng, an ninh.\n2. Phát triển hợp lý các lo ại hình kinh doanh v ận tải; tạo môi trường cạnh\n",
+    "metadata": {
+      "page_number": 3,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "I",
+      "chapters": [
+        "I"
+      ],
+      "chapter_status": "single",
+      "start_char": 840,
+      "end_char": 1640,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P03",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 3,
+    "anchor_char": 1357,
+    "anchor_text": "cấu hạ tầng đường bộ tại các đô th ị để giảm ùn t ắc giao\nthông; các tuyến đường tuần tra biên gi ới",
+    "config": "C",
+    "chunk_id": "luat_duong_bo_2026_p3_paragraph_800_2",
+    "text": ") Xây dựng cơ chế đẩy mạnh huy động các nguồn lực xã hội, đa dạng các\nhình thức, phương thức đầu tư, xây dựng, quản lý, vận hành, khai thác, bảo trì kết\ncấu hạ tầng đường bộ;\nc) Ưu tiên phát tri ển các tuyến đường cao tốc, các công trình, dự án đường\nbộ trọng điểm kết nối vùng, khu vực, đô thị lớn, trung tâm trong nước và quốc tế;\nkết cấu hạ tầng đường bộ vùng đồng bào dân tộc thiểu số, miền núi, hải đảo, biên\ngiới; kết cấu hạ tầng đường bộ dễ tiếp cận và bảo đảm an toàn cho các đối tượng\ndễ bị tổn thương; k ết cấu hạ tầng đường bộ tại các đô th ị để giảm ùn t ắc giao\nthông; các tuyến đường tuần tra biên gi ới, đường ven biển để phục vụ mục tiêu\nkết hợp phát triển kinh tế - xã hội với bảo đảm quốc phòng, an ninh.\n2. Phát triển hợp lý các lo ại hình kinh doanh v ận tải; tạo môi trường cạnh\n",
+    "metadata": {
+      "page_number": 3,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "I",
+      "chapters": [
+        "I"
+      ],
+      "chapter_status": "single",
+      "start_char": 840,
+      "end_char": 1640,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P04",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 4,
+    "anchor_char": 1272,
+    "anchor_text": " dân cấp tỉnh tổ chức lập nội dung về phát triển đường bộ trong\nphương án phát triển mạng lưới giao ",
+    "config": "A",
+    "chunk_id": "luat_duong_bo_2026_p4_fixed_1",
+    "text": "án\nkết nối đường bộ với các phương thức vận tải khác, kết nối với hệ thống đô thị,\nkhu kinh tế, khu công nghiệp; xác định nhu cầu sử dụng đất, nhu cầu vốn đầu tư,\nlộ trình thực hiện quy hoạch; giải pháp thực hiện quy hoạch;\nc)4 Bộ Xây dựng tổ chức lập quy hoạch kết cấu hạ tầng đường bộ.\n3. Thời kỳ quy hoạch kết cấu hạ tầng đường bộ là 10 năm, t ầm nhìn từ 20\nnăm đến 30 năm.\nQuy hoạch kết cấu hạ tầng đường bộ được rà soát theo đ ịnh kỳ 05 năm để\nđiều chỉnh phù hợp với tình hình phát triển kinh tế - xã hội trong từng giai đoạn\nvà được công bố công khai.\n4. Ủy ban nhân dân cấp tỉnh tổ chức lập nội dung về phát triển đường bộ trong\nphương án phát triển mạng lưới giao thông trong quy hoạch theo quy định của pháp\nluật về quy hoạch và quy định khác của pháp luật có liên quan.\nNội dung về phát tri",
+    "metadata": {
+      "page_number": 4,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "fixed_size",
+      "chunk_index": 1,
+      "start_char": 700,
+      "end_char": 1500,
+      "chunk_size": 800,
+      "overlap": 100,
+      "chapter": "I",
+      "chapters": [
+        "I"
+      ],
+      "chapter_status": "single",
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P04",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 4,
+    "anchor_char": 1272,
+    "anchor_text": " dân cấp tỉnh tổ chức lập nội dung về phát triển đường bộ trong\nphương án phát triển mạng lưới giao ",
+    "config": "B",
+    "chunk_id": "luat_duong_bo_2026_p4_paragraph_800_2",
+    "text": "t, nhu cầu vốn đầu tư,\nlộ trình thực hiện quy hoạch; giải pháp thực hiện quy hoạch;\nc)4 Bộ Xây dựng tổ chức lập quy hoạch kết cấu hạ tầng đường bộ.\n3. Thời kỳ quy hoạch kết cấu hạ tầng đường bộ là 10 năm, t ầm nhìn từ 20\nnăm đến 30 năm.\nQuy hoạch kết cấu hạ tầng đường bộ được rà soát theo đ ịnh kỳ 05 năm để\nđiều chỉnh phù hợp với tình hình phát triển kinh tế - xã hội trong từng giai đoạn\nvà được công bố công khai.\n4. Ủy ban nhân dân cấp tỉnh tổ chức lập nội dung về phát triển đường bộ trong\nphương án phát triển mạng lưới giao thông trong quy hoạch theo quy định của pháp\nluật về quy hoạch và quy định khác của pháp luật có liên quan.\nNội dung về phát triển đường bộ đô thị được xác định trong quy hoạch theo\nquy định của pháp lu ật về quy hoạch đô thị và quy đ ịnh khác c ủa pháp lu ật có\nliên ",
+    "metadata": {
+      "page_number": 4,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "I",
+      "chapters": [
+        "I"
+      ],
+      "chapter_status": "single",
+      "start_char": 840,
+      "end_char": 1640,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P04",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 4,
+    "anchor_char": 1272,
+    "anchor_text": " dân cấp tỉnh tổ chức lập nội dung về phát triển đường bộ trong\nphương án phát triển mạng lưới giao ",
+    "config": "C",
+    "chunk_id": "luat_duong_bo_2026_p4_paragraph_800_2",
+    "text": "t, nhu cầu vốn đầu tư,\nlộ trình thực hiện quy hoạch; giải pháp thực hiện quy hoạch;\nc)4 Bộ Xây dựng tổ chức lập quy hoạch kết cấu hạ tầng đường bộ.\n3. Thời kỳ quy hoạch kết cấu hạ tầng đường bộ là 10 năm, t ầm nhìn từ 20\nnăm đến 30 năm.\nQuy hoạch kết cấu hạ tầng đường bộ được rà soát theo đ ịnh kỳ 05 năm để\nđiều chỉnh phù hợp với tình hình phát triển kinh tế - xã hội trong từng giai đoạn\nvà được công bố công khai.\n4. Ủy ban nhân dân cấp tỉnh tổ chức lập nội dung về phát triển đường bộ trong\nphương án phát triển mạng lưới giao thông trong quy hoạch theo quy định của pháp\nluật về quy hoạch và quy định khác của pháp luật có liên quan.\nNội dung về phát triển đường bộ đô thị được xác định trong quy hoạch theo\nquy định của pháp lu ật về quy hoạch đô thị và quy đ ịnh khác c ủa pháp lu ật có\nliên ",
+    "metadata": {
+      "page_number": 4,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "I",
+      "chapters": [
+        "I"
+      ],
+      "chapter_status": "single",
+      "start_char": 840,
+      "end_char": 1640,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P05",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 5,
+    "anchor_char": 1062,
+    "anchor_text": "háo dỡ, di chuyển trái\nphép hoặc làm sai lệch công trình đường bộ.\n3. Lấn, chiếm, sử dụng, xây dựng ",
+    "config": "A",
+    "chunk_id": "luat_duong_bo_2026_p5_fixed_1",
+    "text": " khác có liên quan.\n3. Chính phủ quy định chi tiết khoản 1 và khoản 2 Điều này; quy định việc\nthu thập, quản lý, khai thác thông tin trong cơ sở dữ liệu đường bộ.\nĐiều 7. Các hành vi bị nghiêm cấm\n1. Phá ho ại kết cấu hạ tầng đường bộ; khai thác, s ử dụng kết cấu hạ tầng\nđường bộ trái quy định của pháp luật.\n2. Đấu nối trái phép vào đường chính, đường nhánh; tháo dỡ, di chuyển trái\nphép hoặc làm sai lệch công trình đường bộ.\n3. Lấn, chiếm, sử dụng, xây dựng trái phép trong phạm vi bảo vệ kết cấu hạ\ntầng đường bộ.\n4. Lắp đặt, tháo dỡ, di chuyển, điều chỉnh, che khuất báo hiệu đường bộ trái\nquy định của pháp lu ật; gắn, treo, l ắp vào báo hi ệu đường bộ nội dung không\nliên quan t ới ý nghĩa, m ục đích c ủa báo hi ệu đường bộ hoặc làm sai l ệch báo\nhiệu đường bộ.\n5. Kinh doanh v ận tải bằng x",
+    "metadata": {
+      "page_number": 5,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "fixed_size",
+      "chunk_index": 1,
+      "start_char": 700,
+      "end_char": 1500,
+      "chunk_size": 800,
+      "overlap": 100,
+      "chapter": "I",
+      "chapters": [
+        "I"
+      ],
+      "chapter_status": "single",
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P05",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 5,
+    "anchor_char": 1062,
+    "anchor_text": "háo dỡ, di chuyển trái\nphép hoặc làm sai lệch công trình đường bộ.\n3. Lấn, chiếm, sử dụng, xây dựng ",
+    "config": "B",
+    "chunk_id": "luat_duong_bo_2026_p5_paragraph_800_2",
+    "text": "ơ sở dữ liệu đường bộ.\nĐiều 7. Các hành vi bị nghiêm cấm\n1. Phá ho ại kết cấu hạ tầng đường bộ; khai thác, s ử dụng kết cấu hạ tầng\nđường bộ trái quy định của pháp luật.\n2. Đấu nối trái phép vào đường chính, đường nhánh; tháo dỡ, di chuyển trái\nphép hoặc làm sai lệch công trình đường bộ.\n3. Lấn, chiếm, sử dụng, xây dựng trái phép trong phạm vi bảo vệ kết cấu hạ\ntầng đường bộ.\n4. Lắp đặt, tháo dỡ, di chuyển, điều chỉnh, che khuất báo hiệu đường bộ trái\nquy định của pháp lu ật; gắn, treo, l ắp vào báo hi ệu đường bộ nội dung không\nliên quan t ới ý nghĩa, m ục đích c ủa báo hi ệu đường bộ hoặc làm sai l ệch báo\nhiệu đường bộ.\n5. Kinh doanh v ận tải bằng xe ô tô, b ằng xe bốn bánh có gắn động cơ mà\nkhông có gi ấy phép kinh doanh v ận tải theo quy đ ịnh của pháp lu ật hoặc kinh\ndoanh không đúng",
+    "metadata": {
+      "page_number": 5,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "I",
+      "chapters": [
+        "I"
+      ],
+      "chapter_status": "single",
+      "start_char": 840,
+      "end_char": 1640,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P05",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 5,
+    "anchor_char": 1062,
+    "anchor_text": "háo dỡ, di chuyển trái\nphép hoặc làm sai lệch công trình đường bộ.\n3. Lấn, chiếm, sử dụng, xây dựng ",
+    "config": "C",
+    "chunk_id": "luat_duong_bo_2026_p5_paragraph_800_2",
+    "text": "ơ sở dữ liệu đường bộ.\nĐiều 7. Các hành vi bị nghiêm cấm\n1. Phá ho ại kết cấu hạ tầng đường bộ; khai thác, s ử dụng kết cấu hạ tầng\nđường bộ trái quy định của pháp luật.\n2. Đấu nối trái phép vào đường chính, đường nhánh; tháo dỡ, di chuyển trái\nphép hoặc làm sai lệch công trình đường bộ.\n3. Lấn, chiếm, sử dụng, xây dựng trái phép trong phạm vi bảo vệ kết cấu hạ\ntầng đường bộ.\n4. Lắp đặt, tháo dỡ, di chuyển, điều chỉnh, che khuất báo hiệu đường bộ trái\nquy định của pháp lu ật; gắn, treo, l ắp vào báo hi ệu đường bộ nội dung không\nliên quan t ới ý nghĩa, m ục đích c ủa báo hi ệu đường bộ hoặc làm sai l ệch báo\nhiệu đường bộ.\n5. Kinh doanh v ận tải bằng xe ô tô, b ằng xe bốn bánh có gắn động cơ mà\nkhông có gi ấy phép kinh doanh v ận tải theo quy đ ịnh của pháp lu ật hoặc kinh\ndoanh không đúng",
+    "metadata": {
+      "page_number": 5,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "I",
+      "chapters": [
+        "I"
+      ],
+      "chapter_status": "single",
+      "start_char": 840,
+      "end_char": 1640,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P06",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 6,
+    "anchor_char": 1223,
+    "anchor_text": "đường tỉnh, đường đô thị, đường xã, đường thôn.\n3. Bộ Xây dựng có trách nhi ệm quản lý qu ốc lộ, trừ",
+    "config": "A",
+    "chunk_id": "luat_duong_bo_2026_p6_fixed_1",
+    "text": " với sự phát triển kinh tế\n- xã hội của xã;\nd) Đường thôn là đư ờng trong khu v ực thôn; đư ờng trục nối thôn v ới khu\nvực sản xuất nông nghiệp, lâm nghiệp và cơ sở sản xuất, kinh doanh khác trên địa\nbàn thôn;\nđ) Đường đô thị là đường trong phạm vi địa giới hành chính nội thành, nội\nthị, bao gồm: đường cao tốc đô thị, đường phố, đường ngõ, ngách, kiệt, hẻm trong\nđô thị;\ne) Đường chuyên dùng là đư ờng chuyên phục vụ giao thông cho m ột hoặc\nmột số cơ quan, tổ chức, cá nhân và đường nội bộ.\n2. Đường địa phương bao gồm: đường tỉnh, đường đô thị, đường xã, đường thôn.\n3. Bộ Xây dựng có trách nhi ệm quản lý qu ốc lộ, trừ quốc lộ quy định tại\nđiểm a khoản 4 Điều này và đường gom, đường bên quy định tại điểm c khoản 4\nĐiều này.\n4. Ủy ban nhân dân cấp tỉnh có trách nhiệm quản lý các loại đường sau",
+    "metadata": {
+      "page_number": 6,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "fixed_size",
+      "chunk_index": 1,
+      "start_char": 700,
+      "end_char": 1500,
+      "chunk_size": 800,
+      "overlap": 100,
+      "chapter": "II",
+      "chapters": [
+        "II"
+      ],
+      "chapter_status": "single",
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P06",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 6,
+    "anchor_char": 1223,
+    "anchor_text": "đường tỉnh, đường đô thị, đường xã, đường thôn.\n3. Bộ Xây dựng có trách nhi ệm quản lý qu ốc lộ, trừ",
+    "config": "B",
+    "chunk_id": "luat_duong_bo_2026_p6_paragraph_800_2",
+    "text": "iệp, lâm nghiệp và cơ sở sản xuất, kinh doanh khác trên địa\nbàn thôn;\nđ) Đường đô thị là đường trong phạm vi địa giới hành chính nội thành, nội\nthị, bao gồm: đường cao tốc đô thị, đường phố, đường ngõ, ngách, kiệt, hẻm trong\nđô thị;\ne) Đường chuyên dùng là đư ờng chuyên phục vụ giao thông cho m ột hoặc\nmột số cơ quan, tổ chức, cá nhân và đường nội bộ.\n2. Đường địa phương bao gồm: đường tỉnh, đường đô thị, đường xã, đường thôn.\n3. Bộ Xây dựng có trách nhi ệm quản lý qu ốc lộ, trừ quốc lộ quy định tại\nđiểm a khoản 4 Điều này và đường gom, đường bên quy định tại điểm c khoản 4\nĐiều này.\n4. Ủy ban nhân dân cấp tỉnh có trách nhiệm quản lý các loại đường sau đây:\na) Quản lý đường tỉnh, quốc lộ đi qua đô thị loại đặc biệt; quốc lộ khi được\nphân cấp; tuyến, đoạn tuyến quốc lộ đã hoàn thành vi ệc đ",
+    "metadata": {
+      "page_number": 6,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "II",
+      "chapters": [
+        "II"
+      ],
+      "chapter_status": "single",
+      "start_char": 840,
+      "end_char": 1640,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P06",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 6,
+    "anchor_char": 1223,
+    "anchor_text": "đường tỉnh, đường đô thị, đường xã, đường thôn.\n3. Bộ Xây dựng có trách nhi ệm quản lý qu ốc lộ, trừ",
+    "config": "C",
+    "chunk_id": "luat_duong_bo_2026_p6_paragraph_800_2",
+    "text": "iệp, lâm nghiệp và cơ sở sản xuất, kinh doanh khác trên địa\nbàn thôn;\nđ) Đường đô thị là đường trong phạm vi địa giới hành chính nội thành, nội\nthị, bao gồm: đường cao tốc đô thị, đường phố, đường ngõ, ngách, kiệt, hẻm trong\nđô thị;\ne) Đường chuyên dùng là đư ờng chuyên phục vụ giao thông cho m ột hoặc\nmột số cơ quan, tổ chức, cá nhân và đường nội bộ.\n2. Đường địa phương bao gồm: đường tỉnh, đường đô thị, đường xã, đường thôn.\n3. Bộ Xây dựng có trách nhi ệm quản lý qu ốc lộ, trừ quốc lộ quy định tại\nđiểm a khoản 4 Điều này và đường gom, đường bên quy định tại điểm c khoản 4\nĐiều này.\n4. Ủy ban nhân dân cấp tỉnh có trách nhiệm quản lý các loại đường sau đây:\na) Quản lý đường tỉnh, quốc lộ đi qua đô thị loại đặc biệt; quốc lộ khi được\nphân cấp; tuyến, đoạn tuyến quốc lộ đã hoàn thành vi ệc đ",
+    "metadata": {
+      "page_number": 6,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "II",
+      "chapters": [
+        "II"
+      ],
+      "chapter_status": "single",
+      "start_char": 840,
+      "end_char": 1640,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P07",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 7,
+    "anchor_char": 1052,
+    "anchor_text": ".\n5. Đường dành cho giao thông công c ộng là đường phục vụ cho tất cả mọi\nngười, phương tiện giao th",
+    "config": "A",
+    "chunk_id": "luat_duong_bo_2026_p7_fixed_1",
+    "text": "ường nhánh trước khi đấu nối vào đường chính.\nĐường gom có thể là đường bên theo quy định tại khoản 4 Điều này.\n4. Đường bên là đư ờng được xây dựng bên cạnh các đoạn đường chính để\nngăn cách giao thông khu vực hai bên đường với đường chính. Đường bên được\ntách khỏi đường chính hoặc ngăn cách với đường chính bằng dải phân cách, tường\nbảo vệ, rào chắn.\n5. Đường dành cho giao thông công c ộng là đường phục vụ cho tất cả mọi\nngười, phương tiện giao thông đường bộ theo quy định của Luật này và quy định\nkhác của pháp luật có liên quan.\n6. Đường nội bộ là đường trong phạm vi khu chung cư, đô thị, công nghiệp,\nkinh tế, thương mại - dịch vụ, các cơ quan, tổ chức, đơn vị khác và chỉ phục vụ các\nđối tượng được phép vào, ra bên trong phạm vi các khu vực quy định tại khoản này.\n7. Đường dành riêng cho",
+    "metadata": {
+      "page_number": 7,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "fixed_size",
+      "chunk_index": 1,
+      "start_char": 700,
+      "end_char": 1500,
+      "chunk_size": 800,
+      "overlap": 100,
+      "chapter": "II",
+      "chapters": [
+        "II"
+      ],
+      "chapter_status": "single",
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P07",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 7,
+    "anchor_char": 1052,
+    "anchor_text": ".\n5. Đường dành cho giao thông công c ộng là đường phục vụ cho tất cả mọi\nngười, phương tiện giao th",
+    "config": "B",
+    "chunk_id": "luat_duong_bo_2026_p7_paragraph_800_2",
+    "text": "xây dựng bên cạnh các đoạn đường chính để\nngăn cách giao thông khu vực hai bên đường với đường chính. Đường bên được\ntách khỏi đường chính hoặc ngăn cách với đường chính bằng dải phân cách, tường\nbảo vệ, rào chắn.\n5. Đường dành cho giao thông công c ộng là đường phục vụ cho tất cả mọi\nngười, phương tiện giao thông đường bộ theo quy định của Luật này và quy định\nkhác của pháp luật có liên quan.\n6. Đường nội bộ là đường trong phạm vi khu chung cư, đô thị, công nghiệp,\nkinh tế, thương mại - dịch vụ, các cơ quan, tổ chức, đơn vị khác và chỉ phục vụ các\nđối tượng được phép vào, ra bên trong phạm vi các khu vực quy định tại khoản này.\n7. Đường dành riêng cho người đi bộ, người đi xe đạp và các đường khác.\nĐiều 10. Cấp kỹ thuật của đường bộ\n1. Cấp kỹ thuật của đường bộ phải được xác đ ịnh trong d",
+    "metadata": {
+      "page_number": 7,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "II",
+      "chapters": [
+        "II"
+      ],
+      "chapter_status": "single",
+      "start_char": 840,
+      "end_char": 1640,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P07",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 7,
+    "anchor_char": 1052,
+    "anchor_text": ".\n5. Đường dành cho giao thông công c ộng là đường phục vụ cho tất cả mọi\nngười, phương tiện giao th",
+    "config": "C",
+    "chunk_id": "luat_duong_bo_2026_p7_paragraph_800_2",
+    "text": "xây dựng bên cạnh các đoạn đường chính để\nngăn cách giao thông khu vực hai bên đường với đường chính. Đường bên được\ntách khỏi đường chính hoặc ngăn cách với đường chính bằng dải phân cách, tường\nbảo vệ, rào chắn.\n5. Đường dành cho giao thông công c ộng là đường phục vụ cho tất cả mọi\nngười, phương tiện giao thông đường bộ theo quy định của Luật này và quy định\nkhác của pháp luật có liên quan.\n6. Đường nội bộ là đường trong phạm vi khu chung cư, đô thị, công nghiệp,\nkinh tế, thương mại - dịch vụ, các cơ quan, tổ chức, đơn vị khác và chỉ phục vụ các\nđối tượng được phép vào, ra bên trong phạm vi các khu vực quy định tại khoản này.\n7. Đường dành riêng cho người đi bộ, người đi xe đạp và các đường khác.\nĐiều 10. Cấp kỹ thuật của đường bộ\n1. Cấp kỹ thuật của đường bộ phải được xác đ ịnh trong d",
+    "metadata": {
+      "page_number": 7,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "II",
+      "chapters": [
+        "II"
+      ],
+      "chapter_status": "single",
+      "start_char": 840,
+      "end_char": 1640,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P08",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 8,
+    "anchor_char": 1229,
+    "anchor_text": "u đường bộ đối với đường xã, đường thôn,\nđường nội bộ, đường chuyên dùng; không b ắt buộc đổi tên, s",
+    "config": "A",
+    "chunk_id": "luat_duong_bo_2026_p8_fixed_1",
+    "text": ";\nb) Tên, số hiệu đường bộ tham gia vào mạng lưới đường bộ quốc tế thực hiện\ntheo điều ước quốc tế giữa nước Cộng hòa xã h ội chủ nghĩa Việt Nam v ới các\nquốc gia, tổ chức quốc tế có liên quan. Đường bộ kết nối vào mạng lưới đường bộ\nquốc tế thì sử dụng cả tên, số hiệu đường bộ trong nước và tên, số hiệu đường bộ\nquốc tế.\n2. Trường hợp có tuyến, đoạn tuyến đường bộ đi trùng nhau thì sử dụng tên,\nsố hiệu đường bộ thuộc cấp quản lý cao hơn, trừ trường hợp quy định tại điểm a\nkhoản 1 Điều này.\n3. Không bắt buộc đặt tên, số hiệu đường bộ đối với đường xã, đường thôn,\nđường nội bộ, đường chuyên dùng; không b ắt buộc đổi tên, s ố hiệu đường bộ\ntrong trường hợp đường đó đi qua đ ịa bàn đư ợc cấp có th ẩm quyền quyết định\ngiải thể, nhập, chia, điều chỉnh địa giới hành chính của địa phương.\n4. Chín",
+    "metadata": {
+      "page_number": 8,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "fixed_size",
+      "chunk_index": 1,
+      "start_char": 700,
+      "end_char": 1500,
+      "chunk_size": 800,
+      "overlap": 100,
+      "chapter": "II",
+      "chapters": [
+        "II"
+      ],
+      "chapter_status": "single",
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P08",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 8,
+    "anchor_char": 1229,
+    "anchor_text": "u đường bộ đối với đường xã, đường thôn,\nđường nội bộ, đường chuyên dùng; không b ắt buộc đổi tên, s",
+    "config": "B",
+    "chunk_id": "luat_duong_bo_2026_p8_paragraph_800_2",
+    "text": " Nam v ới các\nquốc gia, tổ chức quốc tế có liên quan. Đường bộ kết nối vào mạng lưới đường bộ\nquốc tế thì sử dụng cả tên, số hiệu đường bộ trong nước và tên, số hiệu đường bộ\nquốc tế.\n2. Trường hợp có tuyến, đoạn tuyến đường bộ đi trùng nhau thì sử dụng tên,\nsố hiệu đường bộ thuộc cấp quản lý cao hơn, trừ trường hợp quy định tại điểm a\nkhoản 1 Điều này.\n3. Không bắt buộc đặt tên, số hiệu đường bộ đối với đường xã, đường thôn,\nđường nội bộ, đường chuyên dùng; không b ắt buộc đổi tên, s ố hiệu đường bộ\ntrong trường hợp đường đó đi qua đ ịa bàn đư ợc cấp có th ẩm quyền quyết định\ngiải thể, nhập, chia, điều chỉnh địa giới hành chính của địa phương.\n4. Chính phủ quy định chi tiết Điều này.\nMục 2\nĐẤT DÀNH CHO KẾT CẤU HẠ TẦNG ĐƯỜNG BỘ,\nBẢO VỆ KẾT CẤU HẠ TẦNG ĐƯỜNG BỘ\nĐiều 12. Quỹ đất dành cho kết",
+    "metadata": {
+      "page_number": 8,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "II",
+      "chapters": [
+        "II"
+      ],
+      "chapter_status": "single",
+      "start_char": 840,
+      "end_char": 1640,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P08",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 8,
+    "anchor_char": 1229,
+    "anchor_text": "u đường bộ đối với đường xã, đường thôn,\nđường nội bộ, đường chuyên dùng; không b ắt buộc đổi tên, s",
+    "config": "C",
+    "chunk_id": "luat_duong_bo_2026_p8_paragraph_800_2",
+    "text": " Nam v ới các\nquốc gia, tổ chức quốc tế có liên quan. Đường bộ kết nối vào mạng lưới đường bộ\nquốc tế thì sử dụng cả tên, số hiệu đường bộ trong nước và tên, số hiệu đường bộ\nquốc tế.\n2. Trường hợp có tuyến, đoạn tuyến đường bộ đi trùng nhau thì sử dụng tên,\nsố hiệu đường bộ thuộc cấp quản lý cao hơn, trừ trường hợp quy định tại điểm a\nkhoản 1 Điều này.\n3. Không bắt buộc đặt tên, số hiệu đường bộ đối với đường xã, đường thôn,\nđường nội bộ, đường chuyên dùng; không b ắt buộc đổi tên, s ố hiệu đường bộ\ntrong trường hợp đường đó đi qua đ ịa bàn đư ợc cấp có th ẩm quyền quyết định\ngiải thể, nhập, chia, điều chỉnh địa giới hành chính của địa phương.\n4. Chính phủ quy định chi tiết Điều này.\nMục 2\nĐẤT DÀNH CHO KẾT CẤU HẠ TẦNG ĐƯỜNG BỘ,\nBẢO VỆ KẾT CẤU HẠ TẦNG ĐƯỜNG BỘ\nĐiều 12. Quỹ đất dành cho kết",
+    "metadata": {
+      "page_number": 8,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "II",
+      "chapters": [
+        "II"
+      ],
+      "chapter_status": "single",
+      "start_char": 840,
+      "end_char": 1640,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P09",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 9,
+    "anchor_char": 1232,
+    "anchor_text": "ủa Luật này và quy định khác của\npháp luật có liên quan.\n3. Trường hợp do vị trí tự nhiên mà việc th",
+    "config": "A",
+    "chunk_id": "luat_duong_bo_2026_p9_fixed_1",
+    "text": "tầng đường bộ\n1. Đất dành cho kết cấu hạ tầng đường bộ bao gồm:\na) Đất của đường bộ gồm phần đất để xây dựng công trình đường bộ và phần\nđất để bảo vệ, bảo trì đường bộ;\nb) Đất để xây dựng bến xe; bãi đỗ xe; điểm dừng xe, đỗ xe; trạm dừng nghỉ;\ncác công trình phụ trợ phục vụ cho hoạt động đường bộ;\nc) Hành lang an toàn đường bộ.\n2. Việc quản lý, sử dụng đất dành cho k ết cấu hạ tầng đường bộ phải tuân\nthủ quy định của pháp luật về đất đai, pháp luật về quy hoạch, pháp luật về quy\nhoạch đô thị, pháp luật về xây dựng, quy định của Luật này và quy định khác của\npháp luật có liên quan.\n3. Trường hợp do vị trí tự nhiên mà việc thoát nước từ công trình thuộc kết\ncấu hạ tầng đường bộ buộc phải qua bất động sản khác thì ch ủ sở hữu bất động\nsản có hệ thống thoát nước đi qua phải dành một lối thoát",
+    "metadata": {
+      "page_number": 9,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "fixed_size",
+      "chunk_index": 1,
+      "start_char": 700,
+      "end_char": 1500,
+      "chunk_size": 800,
+      "overlap": 100,
+      "chapter": "II",
+      "chapters": [
+        "II"
+      ],
+      "chapter_status": "single",
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P09",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 9,
+    "anchor_char": 1232,
+    "anchor_text": "ủa Luật này và quy định khác của\npháp luật có liên quan.\n3. Trường hợp do vị trí tự nhiên mà việc th",
+    "config": "B",
+    "chunk_id": "luat_duong_bo_2026_p9_paragraph_800_2",
+    "text": "để bảo vệ, bảo trì đường bộ;\nb) Đất để xây dựng bến xe; bãi đỗ xe; điểm dừng xe, đỗ xe; trạm dừng nghỉ;\ncác công trình phụ trợ phục vụ cho hoạt động đường bộ;\nc) Hành lang an toàn đường bộ.\n2. Việc quản lý, sử dụng đất dành cho k ết cấu hạ tầng đường bộ phải tuân\nthủ quy định của pháp luật về đất đai, pháp luật về quy hoạch, pháp luật về quy\nhoạch đô thị, pháp luật về xây dựng, quy định của Luật này và quy định khác của\npháp luật có liên quan.\n3. Trường hợp do vị trí tự nhiên mà việc thoát nước từ công trình thuộc kết\ncấu hạ tầng đường bộ buộc phải qua bất động sản khác thì ch ủ sở hữu bất động\nsản có hệ thống thoát nước đi qua phải dành một lối thoát nước thích hợp, không\nđược cản trở hoặc ngăn chặn hệ thống thoát nước.\nNgười quản lý, sử dụng đường bộ phải hạn chế đến mức thấp nhất thiệt ",
+    "metadata": {
+      "page_number": 9,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "II",
+      "chapters": [
+        "II"
+      ],
+      "chapter_status": "single",
+      "start_char": 841,
+      "end_char": 1641,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P09",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 9,
+    "anchor_char": 1232,
+    "anchor_text": "ủa Luật này và quy định khác của\npháp luật có liên quan.\n3. Trường hợp do vị trí tự nhiên mà việc th",
+    "config": "C",
+    "chunk_id": "luat_duong_bo_2026_p9_paragraph_800_2",
+    "text": "để bảo vệ, bảo trì đường bộ;\nb) Đất để xây dựng bến xe; bãi đỗ xe; điểm dừng xe, đỗ xe; trạm dừng nghỉ;\ncác công trình phụ trợ phục vụ cho hoạt động đường bộ;\nc) Hành lang an toàn đường bộ.\n2. Việc quản lý, sử dụng đất dành cho k ết cấu hạ tầng đường bộ phải tuân\nthủ quy định của pháp luật về đất đai, pháp luật về quy hoạch, pháp luật về quy\nhoạch đô thị, pháp luật về xây dựng, quy định của Luật này và quy định khác của\npháp luật có liên quan.\n3. Trường hợp do vị trí tự nhiên mà việc thoát nước từ công trình thuộc kết\ncấu hạ tầng đường bộ buộc phải qua bất động sản khác thì ch ủ sở hữu bất động\nsản có hệ thống thoát nước đi qua phải dành một lối thoát nước thích hợp, không\nđược cản trở hoặc ngăn chặn hệ thống thoát nước.\nNgười quản lý, sử dụng đường bộ phải hạn chế đến mức thấp nhất thiệt ",
+    "metadata": {
+      "page_number": 9,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "II",
+      "chapters": [
+        "II"
+      ],
+      "chapter_status": "single",
+      "start_char": 841,
+      "end_char": 1641,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P10",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 10,
+    "anchor_char": 1313,
+    "anchor_text": " dựng khác thì phần đất để bảo vệ, bảo trì là ranh\ngiới của các công trình.\n3. Tại các đo ạn đường c",
+    "config": "A",
+    "chunk_id": "luat_duong_bo_2026_p10_fixed_1",
+    "text": " với tường bao nhà ở, tường bao công trình\nxây dựng khác, đường không có hè phố, đường nằm trong ngõ, ngách, kiệt, hẻm,\nđường nội bộ khu dân cư đô thị thì được sử dụng một phần mặt đường khi thực hiện\nbảo vệ, bảo trì đường đô thị;\nc) Trường hợp không thu ộc quy đ ịnh tại điểm a và đi ểm b kho ản này thì\nđược xác định tương tự đường ngoài đô thị;\nd) Phần đất để bảo vệ, bảo trì cầu, cống, rãnh, hố thu và các hạng mục công\ntrình của đường đô thị được xác định theo quy định tại điểm c khoản 1 Điều này.\nTrường hợp cầu, cống, rãnh, hố thu và các hạng mục công trình của đường đô thị\nnằm liền kề với công trình xây dựng khác thì phần đất để bảo vệ, bảo trì là ranh\ngiới của các công trình.\n3. Tại các đo ạn đường chồng lấn, giao nhau, ph ần đ ất để bảo vệ, bảo trì\nđường bộ được xác định theo đường có",
+    "metadata": {
+      "page_number": 10,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "fixed_size",
+      "chunk_index": 1,
+      "start_char": 700,
+      "end_char": 1500,
+      "chunk_size": 800,
+      "overlap": 100,
+      "chapter": "II",
+      "chapters": [
+        "II"
+      ],
+      "chapter_status": "single",
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P10",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 10,
+    "anchor_char": 1313,
+    "anchor_text": " dựng khác thì phần đất để bảo vệ, bảo trì là ranh\ngiới của các công trình.\n3. Tại các đo ạn đường c",
+    "config": "B",
+    "chunk_id": "luat_duong_bo_2026_p10_paragraph_800_2",
+    "text": "cư đô thị thì được sử dụng một phần mặt đường khi thực hiện\nbảo vệ, bảo trì đường đô thị;\nc) Trường hợp không thu ộc quy đ ịnh tại điểm a và đi ểm b kho ản này thì\nđược xác định tương tự đường ngoài đô thị;\nd) Phần đất để bảo vệ, bảo trì cầu, cống, rãnh, hố thu và các hạng mục công\ntrình của đường đô thị được xác định theo quy định tại điểm c khoản 1 Điều này.\nTrường hợp cầu, cống, rãnh, hố thu và các hạng mục công trình của đường đô thị\nnằm liền kề với công trình xây dựng khác thì phần đất để bảo vệ, bảo trì là ranh\ngiới của các công trình.\n3. Tại các đo ạn đường chồng lấn, giao nhau, ph ần đ ất để bảo vệ, bảo trì\nđường bộ được xác định theo đường có cấp kỹ thuật cao hơn; đối với các đường\nliền kề nhau, phần đất để bảo vệ, bảo trì đư ờng bộ được xác đ ịnh từ mép của\nđường ngoài cùng trở r",
+    "metadata": {
+      "page_number": 10,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "II",
+      "chapters": [
+        "II"
+      ],
+      "chapter_status": "single",
+      "start_char": 841,
+      "end_char": 1641,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P10",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 10,
+    "anchor_char": 1313,
+    "anchor_text": " dựng khác thì phần đất để bảo vệ, bảo trì là ranh\ngiới của các công trình.\n3. Tại các đo ạn đường c",
+    "config": "C",
+    "chunk_id": "luat_duong_bo_2026_p10_paragraph_800_2",
+    "text": "cư đô thị thì được sử dụng một phần mặt đường khi thực hiện\nbảo vệ, bảo trì đường đô thị;\nc) Trường hợp không thu ộc quy đ ịnh tại điểm a và đi ểm b kho ản này thì\nđược xác định tương tự đường ngoài đô thị;\nd) Phần đất để bảo vệ, bảo trì cầu, cống, rãnh, hố thu và các hạng mục công\ntrình của đường đô thị được xác định theo quy định tại điểm c khoản 1 Điều này.\nTrường hợp cầu, cống, rãnh, hố thu và các hạng mục công trình của đường đô thị\nnằm liền kề với công trình xây dựng khác thì phần đất để bảo vệ, bảo trì là ranh\ngiới của các công trình.\n3. Tại các đo ạn đường chồng lấn, giao nhau, ph ần đ ất để bảo vệ, bảo trì\nđường bộ được xác định theo đường có cấp kỹ thuật cao hơn; đối với các đường\nliền kề nhau, phần đất để bảo vệ, bảo trì đư ờng bộ được xác đ ịnh từ mép của\nđường ngoài cùng trở r",
+    "metadata": {
+      "page_number": 10,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "II",
+      "chapters": [
+        "II"
+      ],
+      "chapter_status": "single",
+      "start_char": 841,
+      "end_char": 1641,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P11",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 11,
+    "anchor_char": 1198,
+    "anchor_text": "căn c ứ chiều rộng mặt đường và tiêu chu ẩn\nthiết kế đường để xác định cấp kỹ thuật tương ứng làm că",
+    "config": "A",
+    "chunk_id": "luat_duong_bo_2026_p11_fixed_1",
+    "text": "ình đường bộ;\nd) Phần đất bảo vệ, bảo trì công trình kè, tường chắn được xác định từ mép\nngoài của bộ phận ngoài cùng của công trình ra xung quanh.\n7. Chính phủ quy định chi tiết Điều này.\nĐiều 15. Hành lang an toàn đường bộ\n1. Chiều rộng hành lang an toàn đư ờng bộ được xác đ ịnh theo nguyên t ắc\nsau đây:\na) Đối với đường ngoài đô th ị, xác định từ mép ngoài ph ần đất để bảo vệ,\nbảo trì đường bộ, theo quy mô, c ấp kỹ thuật của đường; trường hợp đường hiện\nhữu chưa xác đ ịnh cấp kỹ thuật, thì căn c ứ chiều rộng mặt đường và tiêu chu ẩn\nthiết kế đường để xác định cấp kỹ thuật tương ứng làm căn cứ xác định chiều rộng\nhành lang an toàn đường bộ;\nb) Đối với đường đô thị, xác định từ mép ngoài phần đất để bảo vệ, bảo trì\nđường đô thị đến chỉ giới đường đỏ nhưng không lớn hơn chiều rộng hành lan",
+    "metadata": {
+      "page_number": 11,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "fixed_size",
+      "chunk_index": 1,
+      "start_char": 700,
+      "end_char": 1500,
+      "chunk_size": 800,
+      "overlap": 100,
+      "chapter": "II",
+      "chapters": [
+        "II"
+      ],
+      "chapter_status": "single",
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P11",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 11,
+    "anchor_char": 1198,
+    "anchor_text": "căn c ứ chiều rộng mặt đường và tiêu chu ẩn\nthiết kế đường để xác định cấp kỹ thuật tương ứng làm că",
+    "config": "B",
+    "chunk_id": "luat_duong_bo_2026_p11_paragraph_800_2",
+    "text": "quanh.\n7. Chính phủ quy định chi tiết Điều này.\nĐiều 15. Hành lang an toàn đường bộ\n1. Chiều rộng hành lang an toàn đư ờng bộ được xác đ ịnh theo nguyên t ắc\nsau đây:\na) Đối với đường ngoài đô th ị, xác định từ mép ngoài ph ần đất để bảo vệ,\nbảo trì đường bộ, theo quy mô, c ấp kỹ thuật của đường; trường hợp đường hiện\nhữu chưa xác đ ịnh cấp kỹ thuật, thì căn c ứ chiều rộng mặt đường và tiêu chu ẩn\nthiết kế đường để xác định cấp kỹ thuật tương ứng làm căn cứ xác định chiều rộng\nhành lang an toàn đường bộ;\nb) Đối với đường đô thị, xác định từ mép ngoài phần đất để bảo vệ, bảo trì\nđường đô thị đến chỉ giới đường đỏ nhưng không lớn hơn chiều rộng hành lang\ncủa đường ngoài đô thị cùng cấp;\nc) Đối với cầu, bến phà, cầu phao đường bộ, xác định theo chiều dọc, chiều\nngang công trình và phụ thuộc c",
+    "metadata": {
+      "page_number": 11,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "II",
+      "chapters": [
+        "II"
+      ],
+      "chapter_status": "single",
+      "start_char": 841,
+      "end_char": 1641,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  },
+  {
+    "sample_id": "P11",
+    "document_id": "luat_duong_bo_2026",
+    "source": "2026_528-VBHN_144_2026_VBHN-LQ-VPQH.pdf",
+    "page": 11,
+    "anchor_char": 1198,
+    "anchor_text": "căn c ứ chiều rộng mặt đường và tiêu chu ẩn\nthiết kế đường để xác định cấp kỹ thuật tương ứng làm că",
+    "config": "C",
+    "chunk_id": "luat_duong_bo_2026_p11_paragraph_800_2",
+    "text": "quanh.\n7. Chính phủ quy định chi tiết Điều này.\nĐiều 15. Hành lang an toàn đường bộ\n1. Chiều rộng hành lang an toàn đư ờng bộ được xác đ ịnh theo nguyên t ắc\nsau đây:\na) Đối với đường ngoài đô th ị, xác định từ mép ngoài ph ần đất để bảo vệ,\nbảo trì đường bộ, theo quy mô, c ấp kỹ thuật của đường; trường hợp đường hiện\nhữu chưa xác đ ịnh cấp kỹ thuật, thì căn c ứ chiều rộng mặt đường và tiêu chu ẩn\nthiết kế đường để xác định cấp kỹ thuật tương ứng làm căn cứ xác định chiều rộng\nhành lang an toàn đường bộ;\nb) Đối với đường đô thị, xác định từ mép ngoài phần đất để bảo vệ, bảo trì\nđường đô thị đến chỉ giới đường đỏ nhưng không lớn hơn chiều rộng hành lang\ncủa đường ngoài đô thị cùng cấp;\nc) Đối với cầu, bến phà, cầu phao đường bộ, xác định theo chiều dọc, chiều\nngang công trình và phụ thuộc c",
+    "metadata": {
+      "page_number": 11,
+      "has_text": true,
+      "needs_ocr": false,
+      "extraction_error": null,
+      "strategy": "by_paragraph",
+      "chunk_index": 2,
+      "max_size": 800,
+      "char_count": 800,
+      "chapter": "II",
+      "chapters": [
+        "II"
+      ],
+      "chapter_status": "single",
+      "start_char": 841,
+      "end_char": 1641,
+      "snapshot_sha256": "810c0857c1e7eabd8daeb0fa2d4b27b375c658ae61af2ad0e7bf5ccda8268508"
+    }
+  }
+]

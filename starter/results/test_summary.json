@@ -1,0 +1,29 @@
+{
+  "A": {
+    "test": {
+      "total_questions": 5,
+      "hit_at_1_count": 4,
+      "hit_at_1": 0.8,
+      "evidence_hit_at_3_count": 4,
+      "evidence_hit_at_3": 0.8
+    }
+  },
+  "B": {
+    "test": {
+      "total_questions": 5,
+      "hit_at_1_count": 4,
+      "hit_at_1": 0.8,
+      "evidence_hit_at_3_count": 4,
+      "evidence_hit_at_3": 0.8
+    }
+  },
+  "C": {
+    "test": {
+      "total_questions": 5,
+      "hit_at_1_count": 4,
+      "hit_at_1": 0.8,
+      "evidence_hit_at_3_count": 4,
+      "evidence_hit_at_3": 0.8
+    }
+  }
+}
