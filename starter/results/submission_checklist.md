@@ -16,8 +16,9 @@ Học viên: Nguyễn Đình Minh — 2A202603867 — L3B. Checklist dựa trên
 | Năm dimensions và trade-off | PASS | ai_assessment_summary.md/json; báo cáo cá nhân có A–B/B–C, Q09/Q10/Q11/Q12/Q14/Q16/Q19 và giới hạn mẫu nhỏ |
 | Setup, dependencies, code, tests, báo cáo | PASS | README, starter/README, requirements, src, scripts, tests; report/individual/2A202603867_NguyenDinhMinh.md |
 | Secrets và file không cần nộp | Kiểm tra trước commit | Chỉ stage allowlist; .env/.venv/.git/cache, PDF/source extract, drafts, exports trùng và bookkeeping giữ local |
-| Repo/commit chốt | Ghi theo Git thực tế | STUDENT.md và lịch sử nhánh main; không tự ghi SHA chưa tồn tại |
-| Người chấm truy cập / nộp link qua lớp | Chưa xác nhận | Push GitHub không đồng nghĩa đã nộp link theo kênh lớp |
+| Repo/commit chốt | PASS | STUDENT.md ghi commit bee07be7e9746a646b63c34ac0881e17b738a3a7; xem lịch sử main |
+| Người chấm truy cập repo | PASS | GitHub API không đăng nhập trả HTTP200/private=false |
+| Nộp link qua lớp | Chưa thực hiện | Push GitHub không đồng nghĩa đã nộp link theo kênh lớp |
 
 ## Kết quả và đường dẫn
 
